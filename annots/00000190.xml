@@ -1,50 +1,26 @@
 <annotation>
 	<folder>images</folder>
-	<filename>00277.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/00277.jpg</path>
+	<filename>00190.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00190.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>716</width>
-		<height>1000</height>
+		<width>640</width>
+		<height>427</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>crucifixion</name>
+		<name>man</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>255</xmin>
-			<ymin>19</ymin>
-			<xmax>620</xmax>
-			<ymax>679</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>crown of thorns</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>329</xmin>
-			<ymin>124</ymin>
-			<xmax>435</xmax>
-			<ymax>167</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>woman</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>187</xmin>
-			<ymin>259</ymin>
-			<xmax>376</xmax>
-			<ymax>574</ymax>
+			<xmin>457</xmin>
+			<ymin>28</ymin>
+			<xmax>499</xmax>
+			<ymax>83</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>491</xmin>
-			<ymin>223</ymin>
-			<xmax>709</xmax>
-			<ymax>968</ymax>
+			<xmin>82</xmin>
+			<ymin>96</ymin>
+			<xmax>210</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>153</ymin>
+			<xmax>624</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>163</ymin>
+			<xmax>219</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

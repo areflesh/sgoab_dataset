@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
-	<filename>COCO_val2014_000000074629.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/COCO_val2014_000000074629.jpg</path>
+	<filename>IIHIM_-1048196578.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_-1048196578.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>428</height>
+		<width>500</width>
+		<height>293</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>woman</name>
+		<name>horse</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>371</xmin>
-			<ymin>78</ymin>
-			<xmax>447</xmax>
-			<ymax>267</ymax>
+			<xmin>94</xmin>
+			<ymin>214</ymin>
+			<xmax>142</xmax>
+			<ymax>252</ymax>
 		</bndbox>
 	</object>
 </annotation>
