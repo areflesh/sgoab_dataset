@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crucifixion+angels</folder>
+	<filename>00327.jpg</filename>
+	<path>/home/artem/Desktop/BSC/datasets/crucifixion+angels/00327.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>532</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>15</ymin>
+			<xmax>510</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

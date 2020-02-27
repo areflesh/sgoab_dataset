@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00313.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_dataset/images/00313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>41</ymin>
+			<xmax>222</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00236.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_dataset/images/00236.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>34</ymin>
+			<xmax>514</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>81</ymin>
+			<xmax>284</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00064.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_dataset/images/00064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>28</ymin>
+			<xmax>262</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

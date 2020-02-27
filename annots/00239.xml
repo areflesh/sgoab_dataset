@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00305.jpg</filename>
+	<path>/home/artem/Desktop/BSC/datasets/crucifixion+angels/images/00305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>453</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>300</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>54</ymin>
+			<xmax>167</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>
