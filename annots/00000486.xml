@@ -1,0 +1,26 @@
+<annotation>
+  <folder>coco</folder>
+  <filename>COCO_val2014_000000122302.jpg</filename>
+  <path>coco</path>
+  <source>
+    <database>coco</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>463.46</xmin>
+      <ymin>134.54</ymin>
+      <xmax>485.65</xmax>
+      <ymax>180.2</ymax>
+    </bndbox>
+  </object>
+</annotation>
