@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final_data_coco</folder>
+	<filename>tmp_3aa18cd4f848832bc69b32ef8529653d.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/tmp_3aa18cd4f848832bc69b32ef8529653d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>418</width>
+		<height>515</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>40</ymin>
+			<xmax>353</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>
