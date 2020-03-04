@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IIHIM_-924292626.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_-924292626.jpg</path>
+	<filename>IIHIM_1162781926.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_1162781926.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
-		<height>384</height>
+		<height>325</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>horse</name>
+		<name>bird</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>77</xmin>
-			<ymin>311</ymin>
-			<xmax>109</xmax>
-			<ymax>334</ymax>
+			<xmin>201</xmin>
+			<ymin>122</ymin>
+			<xmax>487</xmax>
+			<ymax>204</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>embhab_xb2867_pic06413.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/horses/images/embhab_xb2867_pic06413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>28</ymin>
+			<xmax>121</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

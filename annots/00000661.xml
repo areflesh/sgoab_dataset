@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IIHIM_144535246.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_144535246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>65</ymin>
+			<xmax>171</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>
