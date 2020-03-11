@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>embhab_uk-70_pic081.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/embhab_uk-70_pic081.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>469</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>314</ymin>
+			<xmax>131</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

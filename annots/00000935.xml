@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>76g21_168v.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/76g21_168v.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>282</ymin>
+			<xmax>220</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

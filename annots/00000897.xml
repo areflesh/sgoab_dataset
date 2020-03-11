@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>alchab_na-2f-3-2_fac105.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/alchab_na-2f-3-2_fac105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>291</ymin>
+			<xmax>219</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>folger_ill_fac074559.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/folger_ill_fac074559.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>359</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>240</ymin>
+			<xmax>325</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

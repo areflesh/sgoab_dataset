@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IIHIM_RIJKS_-1522983749.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_RIJKS_-1522983749.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>128</ymin>
+			<xmax>437</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

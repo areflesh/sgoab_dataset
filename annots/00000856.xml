@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>855599128.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/855599128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>300</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>9</ymin>
+			<xmax>315</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

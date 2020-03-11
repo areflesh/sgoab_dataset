@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>alchab_218-quod-1s_fac078.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/alchab_218-quod-1s_fac078.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>311</ymin>
+			<xmax>236</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

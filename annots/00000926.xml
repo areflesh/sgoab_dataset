@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>embhab_th-2939-1s_pic041.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/embhab_th-2939-1s_pic041.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>228</ymin>
+			<xmax>148</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

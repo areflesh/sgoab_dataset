@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IIHIM_569306417.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_569306417.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>279</ymin>
+			<xmax>431</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

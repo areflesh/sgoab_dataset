@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>embmne_ripa1613_pic209.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/embmne_ripa1613_pic209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>373</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>222</ymin>
+			<xmax>350</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

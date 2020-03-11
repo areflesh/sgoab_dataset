@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>76f7_033v_min.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dragons/images/76f7_033v_min.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>329</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>312</ymin>
+			<xmax>262</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
