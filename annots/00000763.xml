@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cruc</folder>
+	<filename>572185879.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/pharos/cruc/572185879.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>615</width>
+		<height>1024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>112</ymin>
+			<xmax>534</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>271</ymin>
+			<xmax>287</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cruc</folder>
+	<filename>409972433.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/pharos/cruc/409972433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>45</ymin>
+			<xmax>620</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

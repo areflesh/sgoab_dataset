@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>929456086.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/pharos/angels/929456086.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>15</ymin>
+			<xmax>616</xmax>
+			<ymax>1013</ymax>
+		</bndbox>
+	</object>
+</annotation>
