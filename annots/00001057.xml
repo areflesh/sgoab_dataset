@@ -1,0 +1,26 @@
+<annotation>
+	<folder>birds</folder>
+	<filename>embepu_ha1629_pic039.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/birds/embepu_ha1629_pic039.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>212</ymin>
+			<xmax>278</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

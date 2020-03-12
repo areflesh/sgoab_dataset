@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2634.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/prep_folder/images/2634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>941</width>
+		<height>674</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>248</ymin>
+			<xmax>913</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

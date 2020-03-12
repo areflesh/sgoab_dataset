@@ -1,0 +1,26 @@
+<annotation>
+	<folder>birds</folder>
+	<filename>IIHIM_215463202.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/birds/IIHIM_215463202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>477</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>11</ymin>
+			<xmax>272</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
