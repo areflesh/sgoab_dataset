@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dogs</folder>
+	<filename>embhab_li63_2_pic200.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dogs/embhab_li63_2_pic200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>278</ymin>
+			<xmax>468</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

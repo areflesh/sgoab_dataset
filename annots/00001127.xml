@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dogs</folder>
+	<filename>IIHIM_-868300382.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/dogs/IIHIM_-868300382.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>295</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>146</ymin>
+			<xmax>212</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
