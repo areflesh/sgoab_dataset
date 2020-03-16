@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>boat-at-low-tide-at-fecamp.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boat-at-low-tide-at-fecamp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>785</width>
+		<height>1078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>1</ymin>
+			<xmax>738</xmax>
+			<ymax>934</ymax>
+		</bndbox>
+	</object>
+</annotation>

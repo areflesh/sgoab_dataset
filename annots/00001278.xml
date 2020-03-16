@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>hauling-a-boat-ashore-honfleur.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/hauling-a-boat-ashore-honfleur.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>835</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>881</xmin>
+			<ymin>600</ymin>
+			<xmax>1071</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

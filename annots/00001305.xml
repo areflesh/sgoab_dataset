@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>a-fishing-boat-at-sea-1888-1(1).jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/a-fishing-boat-at-sea-1888-1(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>787</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>44</ymin>
+			<xmax>442</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>tarring-the-boat-1873.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/tarring-the-boat-1873.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1109</width>
+		<height>903</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>9</ymin>
+			<xmax>587</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>beach-and-boats-1882(1).jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/beach-and-boats-1882(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>366</ymin>
+			<xmax>169</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

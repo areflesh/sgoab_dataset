@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>small-boat-on-the-small-branch-of-the-seine-at-argenteuil.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/small-boat-on-the-small-branch-of-the-seine-at-argenteuil.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1223</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>502</ymin>
+			<xmax>494</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

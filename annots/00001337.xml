@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>boat-building-1815.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boat-building-1815.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2024</width>
+		<height>1657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>1015</ymin>
+			<xmax>1257</xmax>
+			<ymax>1460</ymax>
+		</bndbox>
+	</object>
+</annotation>

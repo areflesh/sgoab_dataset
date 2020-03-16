@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>in-the-norvegienne-boat-at-giverny.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/in-the-norvegienne-boat-at-giverny.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2527</width>
+		<height>1896</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>697</ymin>
+			<xmax>2515</xmax>
+			<ymax>1119</ymax>
+		</bndbox>
+	</object>
+</annotation>

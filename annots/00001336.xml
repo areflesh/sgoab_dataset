@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>boat-on-the-coast.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boat-on-the-coast.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>716</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>210</ymin>
+			<xmax>665</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>boats.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boats.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>766</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>77</ymin>
+			<xmax>650</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

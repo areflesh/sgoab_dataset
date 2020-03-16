@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>fishing-boats-at-pourville.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/fishing-boats-at-pourville.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1274</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>291</ymin>
+			<xmax>834</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+</annotation>

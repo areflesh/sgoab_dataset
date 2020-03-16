@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>the-sailing-boat.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/the-sailing-boat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>862</xmin>
+			<ymin>4</ymin>
+			<xmax>1426</xmax>
+			<ymax>1045</ymax>
+		</bndbox>
+	</object>
+</annotation>

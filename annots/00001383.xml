@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IIHIM_-35406990.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/prep_folder/images/IIHIM_-35406990.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>315</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>184</ymin>
+			<xmax>58</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

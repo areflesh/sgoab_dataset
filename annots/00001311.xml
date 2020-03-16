@@ -1,0 +1,26 @@
+<annotation>
+	<folder>boats</folder>
+	<filename>boat-at-a-shore-sun.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boat-at-a-shore-sun.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1112</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>289</ymin>
+			<xmax>670</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>
