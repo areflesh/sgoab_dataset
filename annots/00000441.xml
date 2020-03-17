@@ -1,7 +1,7 @@
-<annotation>
-	<folder>final_data_coco</folder>
-	<filename>tmp_6f08220a953756f6850222e90489a546.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_data_coco/tmp_6f08220a953756f6850222e90489a546.jpg</path>
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>00000441.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000441.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

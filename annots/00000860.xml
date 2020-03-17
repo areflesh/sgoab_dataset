@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>embhab_nd-773_pic081.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/embhab_nd-773_pic081.jpg</path>
+	<filename>00000860.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000860.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>188</ymin>
 			<xmax>309</xmax>
 			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>110</ymin>
+			<xmax>190</xmax>
+			<ymax>172</ymax>
 		</bndbox>
 	</object>
 </annotation>

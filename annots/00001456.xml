@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>a-cat-at-the-window-of-a-painters-studios-1657.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/a-cat-at-the-window-of-a-painters-studios-1657.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>480</ymin>
+			<xmax>367</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

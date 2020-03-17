@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>COCO_val2014_000000439180.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/COCO_val2014_000000439180.jpg</path>
+	<filename>00000435.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000435.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,54 @@
 			<ymin>181</ymin>
 			<xmax>326</xmax>
 			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>189</ymin>
+			<xmax>457</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>190</ymin>
+			<xmax>389</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>199</ymin>
+			<xmax>235</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>202</ymin>
+			<xmax>149</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

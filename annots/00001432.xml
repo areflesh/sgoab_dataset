@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>the-cat-in-the-mirror.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/the-cat-in-the-mirror.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1762</width>
+		<height>1860</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1454</xmin>
+			<ymin>412</ymin>
+			<xmax>1637</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>

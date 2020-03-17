@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cruc</folder>
-	<filename>411857959.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/411857959.jpg</path>
+	<folder>images</folder>
+	<filename>00000823.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000823.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,6 +69,54 @@
 			<ymin>231</ymin>
 			<xmax>700</xmax>
 			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>173</ymin>
+			<xmax>309</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>51</ymin>
+			<xmax>292</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>59</ymin>
+			<xmax>430</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>13</ymin>
+			<xmax>468</xmax>
+			<ymax>64</ymax>
 		</bndbox>
 	</object>
 </annotation>

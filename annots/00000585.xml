@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IIHIM_1141194667.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_1141194667.jpg</path>
+	<filename>00000585.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000585.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,6 +57,30 @@
 			<ymin>93</ymin>
 			<xmax>103</xmax>
 			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>275</ymin>
+			<xmax>477</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>99</ymin>
+			<xmax>469</xmax>
+			<ymax>117</ymax>
 		</bndbox>
 	</object>
 </annotation>

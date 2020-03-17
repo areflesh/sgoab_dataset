@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birds</folder>
-	<filename>IIHIM_-339051209.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/IIHIM_-339051209.jpg</path>
+	<folder>images</folder>
+	<filename>00001047.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00001047.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>237</ymin>
 			<xmax>306</xmax>
 			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>200</ymin>
+			<xmax>292</xmax>
+			<ymax>221</ymax>
 		</bndbox>
 	</object>
 </annotation>

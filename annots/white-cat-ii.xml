@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>white-cat-ii.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/white-cat-ii.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>344</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>52</ymin>
+			<xmax>480</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

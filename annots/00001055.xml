@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birds</folder>
-	<filename>embstma_826_pic099.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/embstma_826_pic099.jpg</path>
+	<folder>images</folder>
+	<filename>00001055.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00001055.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,42 @@
 			<ymin>126</ymin>
 			<xmax>457</xmax>
 			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>222</ymin>
+			<xmax>120</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>143</ymin>
+			<xmax>183</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>145</ymin>
+			<xmax>391</xmax>
+			<ymax>235</ymax>
 		</bndbox>
 	</object>
 </annotation>

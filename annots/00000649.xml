@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>embmne_sam1564_pic132.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/embmne_sam1564_pic132.jpg</path>
+	<filename>00000649.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000649.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>339</ymin>
 			<xmax>325</xmax>
 			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>165</ymin>
+			<xmax>184</xmax>
+			<ymax>364</ymax>
 		</bndbox>
 	</object>
 </annotation>

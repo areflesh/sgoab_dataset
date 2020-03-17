@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>self-portrait-with-necklace-of-thorns-1940.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/self-portrait-with-necklace-of-thorns-1940.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>656</width>
+		<height>854</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>340</ymin>
+			<xmax>601</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

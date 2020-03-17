@@ -71,4 +71,16 @@
 			<ymax>211</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>145</ymin>
+			<xmax>158</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
 </annotation>

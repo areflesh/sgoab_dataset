@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>between-heaven-and-hell-1989.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/between-heaven-and-hell-1989.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>947</width>
+		<height>792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>407</ymin>
+			<xmax>694</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

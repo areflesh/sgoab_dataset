@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>girl-with-a-cat-1882.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/girl-with-a-cat-1882.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>703</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>489</ymin>
+			<xmax>431</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+</annotation>

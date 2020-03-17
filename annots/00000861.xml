@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>alchab_218-quod-1s_fac078.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/alchab_218-quod-1s_fac078.jpg</path>
+	<filename>00000861.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000861.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,42 @@
 			<ymin>311</ymin>
 			<xmax>236</xmax>
 			<ymax>365</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>376</ymin>
+			<xmax>252</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>371</ymin>
+			<xmax>344</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>327</ymin>
+			<xmax>292</xmax>
+			<ymax>359</ymax>
 		</bndbox>
 	</object>
 </annotation>

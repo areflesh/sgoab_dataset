@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>strawberry-tree.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/strawberry-tree.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>677</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>547</ymin>
+			<xmax>336</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

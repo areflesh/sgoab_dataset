@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>mimicry.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/mimicry.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>950</width>
+		<height>943</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>771</ymin>
+			<xmax>193</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IIHIM_-2016205289.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_-2016205289.jpg</path>
+	<filename>00000383.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000383.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,66 @@
 			<ymin>199</ymin>
 			<xmax>306</xmax>
 			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>216</ymin>
+			<xmax>423</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>206</ymin>
+			<xmax>142</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>217</ymin>
+			<xmax>62</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>200</ymin>
+			<xmax>199</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>205</ymin>
+			<xmax>333</xmax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 </annotation>

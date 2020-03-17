@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IIHIM_RIJKS_285295357.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_RIJKS_285295357.jpg</path>
+	<filename>00000907.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000907.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>287</ymin>
 			<xmax>339</xmax>
 			<ymax>470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>63</ymin>
+			<xmax>204</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>141</ymin>
+			<xmax>332</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

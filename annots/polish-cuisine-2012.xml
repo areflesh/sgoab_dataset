@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>polish-cuisine-2012.jpg</filename>
+	<path>/home/bscuser/BSC/datasets/WikiArt/cats/polish-cuisine-2012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>574</ymin>
+			<xmax>530</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+</annotation>
