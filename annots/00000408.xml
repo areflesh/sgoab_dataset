@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_RIJKS_63743390.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_RIJKS_63743390.jpg</path>
+	<path>./images/00000408.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,18 @@
 			<ymin>101</ymin>
 			<xmax>385</xmax>
 			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>45</ymin>
+			<xmax>282</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>

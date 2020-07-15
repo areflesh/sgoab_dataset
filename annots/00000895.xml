@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IIHIM_1522173239.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_1522173239.jpg</path>
+	<filename>00000895.jpg</filename>
+	<path>./images/00000895.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>69</ymin>
 			<xmax>430</xmax>
 			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>116</ymin>
+			<xmax>293</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>303</ymin>
+			<xmax>419</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

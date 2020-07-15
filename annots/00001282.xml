@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>a-fishing-boat-at-sea-1888-2(1).jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/a-fishing-boat-at-sea-1888-2(1).jpg</path>
+	<path>./images/00001282.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1024</width>
@@ -33,6 +33,66 @@
 			<ymin>70</ymin>
 			<xmax>531</xmax>
 			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>55</ymin>
+			<xmax>449</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>42</ymin>
+			<xmax>607</xmax>
+			<ymax>182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>656</xmin>
+			<ymin>57</ymin>
+			<xmax>684</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>61</ymin>
+			<xmax>123</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>131</ymin>
+			<xmax>830</xmax>
+			<ymax>169</ymax>
 		</bndbox>
 	</object>
 </annotation>

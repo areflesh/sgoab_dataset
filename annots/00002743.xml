@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>358the-bather-1848.jpg</filename>
+	<path>./images/00002743.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>116</ymin>
+			<xmax>296</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>

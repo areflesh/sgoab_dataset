@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skull</folder>
+	<filename>8skull.jpg</filename>
+	<path>./images/00002452.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2536</width>
+		<height>2386</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>552</ymin>
+			<xmax>1521</xmax>
+			<ymax>1712</ymax>
+		</bndbox>
+	</object>
+</annotation>

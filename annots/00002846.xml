@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>66the-dying-slave-1515.jpg</filename>
+	<path>./images/00002846.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>389</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>20</ymin>
+			<xmax>302</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+</annotation>

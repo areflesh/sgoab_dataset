@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pope</folder>
+	<filename>17194128485.jpg</filename>
+	<path>./images/00002274.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1211</width>
+		<height>1680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>291</ymin>
+			<xmax>743</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>531</ymin>
+			<xmax>983</xmax>
+			<ymax>1407</ymax>
+		</bndbox>
+	</object>
+</annotation>

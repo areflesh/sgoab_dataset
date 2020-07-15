@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>649HNHM-EXH_Afrika_elovilaga_8.jpg</filename>
+	<path>./images/00001846.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>888</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>639</xmin>
+			<ymin>179</ymin>
+			<xmax>974</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>312</ymin>
+			<xmax>634</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

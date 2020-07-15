@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>41elephant-and-whale-diptych-1.jpg</filename>
+	<path>./images/00001709.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>4</ymin>
+			<xmax>570</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

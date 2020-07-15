@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>217nude-with-right-arm-raised-1718.jpg</filename>
+	<path>./images/00002872.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>188</ymin>
+			<xmax>688</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crown</folder>
+	<filename>2565003_010_066995_01.jpg</filename>
+	<path>./images/00002056.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>9</ymin>
+			<xmax>624</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

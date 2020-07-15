@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>55skull-1517.jpg</filename>
+	<path>./images/00002455.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>809</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>596</ymin>
+			<xmax>675</xmax>
+			<ymax>1228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>key of heaven</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>270</ymin>
+			<xmax>702</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

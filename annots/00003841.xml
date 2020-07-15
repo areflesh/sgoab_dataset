@@ -1,0 +1,26 @@
+<annotation>
+	<folder>deer</folder>
+	<filename>40G70031-49a.jpg</filename>
+	<path>./images/00003841.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>796</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>155</ymin>
+			<xmax>1212</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

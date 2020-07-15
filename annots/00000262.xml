@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00372.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/00372.jpg</path>
+	<path>./images/00000262.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,66 @@
 			<ymin>145</ymin>
 			<xmax>181</xmax>
 			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>246</ymin>
+			<xmax>242</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>236</ymin>
+			<xmax>244</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>key of heaven</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>260</ymin>
+			<xmax>111</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>42</ymin>
+			<xmax>296</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>210</ymin>
+			<xmax>56</xmax>
+			<ymax>310</ymax>
 		</bndbox>
 	</object>
 </annotation>

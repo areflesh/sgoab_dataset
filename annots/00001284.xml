@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>the-blue-row-boat.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/the-blue-row-boat.jpg</path>
+	<path>./images/00001284.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1280</width>
@@ -21,6 +21,30 @@
 			<ymin>475</ymin>
 			<xmax>1279</xmax>
 			<ymax>980</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>147</ymin>
+			<xmax>658</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>305</ymin>
+			<xmax>997</xmax>
+			<ymax>895</ymax>
 		</bndbox>
 	</object>
 </annotation>

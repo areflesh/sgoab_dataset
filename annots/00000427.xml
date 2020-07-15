@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>IIHIM_205409801.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_205409801.jpg</path>
+	<filename>00000427.jpg</filename>
+	<path>./images/00000427.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>67</ymin>
 			<xmax>335</xmax>
 			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>18</ymin>
+			<xmax>250</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>7</ymin>
+			<xmax>310</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 </annotation>

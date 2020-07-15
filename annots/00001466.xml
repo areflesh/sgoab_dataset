@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>for-cats-in-different-poses.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/for-cats-in-different-poses.jpg</path>
+	<path>./images/00001466.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2126</width>

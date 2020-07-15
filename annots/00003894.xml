@@ -1,0 +1,38 @@
+<annotation>
+	<folder>eagle</folder>
+	<filename>13default.jpg</filename>
+	<path>./images/00003894.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>765</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>145</ymin>
+			<xmax>424</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>273</ymin>
+			<xmax>491</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

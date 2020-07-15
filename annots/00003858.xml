@@ -1,0 +1,26 @@
+<annotation>
+	<folder>deer</folder>
+	<filename>97d40037-81a.jpg</filename>
+	<path>./images/00003858.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1170</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>983</ymin>
+			<xmax>752</xmax>
+			<ymax>1282</ymax>
+		</bndbox>
+	</object>
+</annotation>

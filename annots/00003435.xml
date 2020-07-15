@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>41crucified-rooster-1964.jpg</filename>
+	<path>./images/00003435.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>451</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>126</ymin>
+			<xmax>448</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

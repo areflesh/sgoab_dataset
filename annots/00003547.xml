@@ -1,0 +1,38 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>953E101835c.jpg</filename>
+	<path>./images/00003547.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>675</ymin>
+			<xmax>564</xmax>
+			<ymax>1361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>552</ymin>
+			<xmax>162</xmax>
+			<ymax>1485</ymax>
+		</bndbox>
+	</object>
+</annotation>

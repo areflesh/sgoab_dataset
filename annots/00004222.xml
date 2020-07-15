@@ -1,0 +1,26 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>Ethiopian_Church_Painting_%282261209349%29.jpg</filename>
+	<path>./images/00004222.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>2982</width>
+		<height>1970</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>702</xmin>
+			<ymin>820</ymin>
+			<xmax>1999</xmax>
+			<ymax>1727</ymax>
+		</bndbox>
+	</object>
+</annotation>

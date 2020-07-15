@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>813.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/813.jpg</path>
+	<path>./images/00000967.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>190</ymin>
 			<xmax>416</xmax>
 			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>90</ymin>
+			<xmax>333</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 </annotation>

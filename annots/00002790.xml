@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>270male-nude.jpg</filename>
+	<path>./images/00002790.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>2</ymin>
+			<xmax>293</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

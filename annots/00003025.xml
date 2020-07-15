@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>66palestine-monk-1886.jpg</filename>
+	<path>./images/00003025.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>784</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>103</ymin>
+			<xmax>784</xmax>
+			<ymax>993</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>boats-at-rest-at-petit-gennevilliers.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boats-at-rest-at-petit-gennevilliers.jpg</path>
+	<path>./images/00001290.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2000</width>
@@ -33,6 +33,54 @@
 			<ymin>3</ymin>
 			<xmax>1457</xmax>
 			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>3</ymin>
+			<xmax>1887</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1297</xmin>
+			<ymin>770</ymin>
+			<xmax>2000</xmax>
+			<ymax>1473</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1294</xmin>
+			<ymin>416</ymin>
+			<xmax>1463</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>1</ymin>
+			<xmax>411</xmax>
+			<ymax>566</ymax>
 		</bndbox>
 	</object>
 </annotation>

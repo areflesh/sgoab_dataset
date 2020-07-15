@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>a-summer-night-s-melancholy.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/a-summer-night-s-melancholy.jpg</path>
+	<path>./images/00001406.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>750</width>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>dogs</folder>
+	<folder>images</folder>
 	<filename>smithsonian_bhl64842_pic036a.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dogs/smithsonian_bhl64842_pic036a.jpg</path>
+	<path>./images/00001196.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>50</ymin>
 			<xmax>373</xmax>
 			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>11</ymin>
+			<xmax>465</xmax>
+			<ymax>178</ymax>
 		</bndbox>
 	</object>
 </annotation>

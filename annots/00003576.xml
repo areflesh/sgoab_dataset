@@ -1,0 +1,38 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>727966_repro.jpg</filename>
+	<path>./images/00003576.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>4891</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>41</ymin>
+			<xmax>4235</xmax>
+			<ymax>4934</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1748</xmin>
+			<ymin>1622</ymin>
+			<xmax>4891</xmax>
+			<ymax>5981</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>110default.jpg</filename>
+	<path>./images/00003620.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>786</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>83</ymin>
+			<xmax>395</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lily</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>166</ymin>
+			<xmax>445</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

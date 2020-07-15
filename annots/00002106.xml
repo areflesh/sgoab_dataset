@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2702004_025_006407_01.jpg</filename>
+	<path>./images/00002106.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>72</ymin>
+			<xmax>482</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>258</ymin>
+			<xmax>600</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crowns</folder>
+	<filename>IIHIM_10710697.jpg</filename>
+	<path>./images/00001933.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>323</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>173</ymin>
+			<xmax>199</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

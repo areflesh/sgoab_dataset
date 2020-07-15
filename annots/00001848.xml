@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zebra</folder>
+	<filename>43911069879674_c571d6db29_o.jpg</filename>
+	<path>./images/00001848.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1098</width>
+		<height>806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>96</ymin>
+			<xmax>882</xmax>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+</annotation>

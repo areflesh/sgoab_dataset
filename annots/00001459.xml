@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>girl-broom-kitten.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/girl-broom-kitten.jpg</path>
+	<path>./images/00001459.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>450</width>
@@ -33,6 +33,30 @@
 			<ymin>482</ymin>
 			<xmax>293</xmax>
 			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>99</ymin>
+			<xmax>280</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>296</ymin>
+			<xmax>190</xmax>
+			<ymax>405</ymax>
 		</bndbox>
 	</object>
 </annotation>

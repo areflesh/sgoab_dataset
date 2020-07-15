@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>152nude-woman-on-her-knees.jpg</filename>
+	<path>./images/00002865.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>6</ymin>
+			<xmax>599</xmax>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+</annotation>

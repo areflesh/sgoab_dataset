@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sword</folder>
+	<filename>sword33.jpg</filename>
+	<path>./images/00003343.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1428</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymin>202</ymin>
+			<xmax>1137</xmax>
+			<ymax>2686</ymax>
+		</bndbox>
+	</object>
+</annotation>

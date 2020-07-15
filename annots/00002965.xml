@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>259female-nude-from-behind.jpg</filename>
+	<path>./images/00002965.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1713</width>
+		<height>3236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>47</ymin>
+			<xmax>1337</xmax>
+			<ymax>3171</ymax>
+		</bndbox>
+	</object>
+</annotation>

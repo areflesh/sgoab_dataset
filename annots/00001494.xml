@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>girl-with-cat-ii-1912.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/girl-with-cat-ii-1912.jpg</path>
+	<path>./images/00001494.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>590</width>

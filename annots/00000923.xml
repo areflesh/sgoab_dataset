@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>embstma_1454_pic105_04.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/embstma_1454_pic105_04.jpg</path>
+	<path>./images/00000923.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>407</width>
@@ -21,6 +21,42 @@
 			<ymin>355</ymin>
 			<xmax>274</xmax>
 			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>73</ymin>
+			<xmax>323</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tiara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>256</ymin>
+			<xmax>354</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>140</ymin>
+			<xmax>200</xmax>
+			<ymax>419</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>deer</folder>
+	<filename>64c6671-06.jpg</filename>
+	<path>./images/00003830.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1315</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>1040</ymin>
+			<xmax>746</xmax>
+			<ymax>1308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>1054</ymin>
+			<xmax>385</xmax>
+			<ymax>1298</ymax>
+		</bndbox>
+	</object>
+</annotation>

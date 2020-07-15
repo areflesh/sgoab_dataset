@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>59E028012c.jpg</filename>
+	<path>./images/00003799.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1222</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>188</ymin>
+			<xmax>872</xmax>
+			<ymax>1163</ymax>
+		</bndbox>
+	</object>
+</annotation>

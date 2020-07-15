@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skull</folder>
+	<filename>13m-c-escher.jpg</filename>
+	<path>./images/00002454.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>273</ymin>
+			<xmax>346</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+</annotation>

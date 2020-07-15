@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cruc</folder>
+	<folder>images</folder>
 	<filename>422314764.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/422314764.jpg</path>
+	<path>./images/00000819.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>Pharos</database>
 	</source>
 	<size>
 		<width>647</width>
@@ -45,6 +45,102 @@
 			<ymin>177</ymin>
 			<xmax>209</xmax>
 			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>582</ymin>
+			<xmax>617</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>537</ymin>
+			<xmax>565</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>446</xmin>
+			<ymin>771</ymin>
+			<xmax>552</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>773</ymin>
+			<xmax>620</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>748</ymin>
+			<xmax>475</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prayer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>626</ymin>
+			<xmax>425</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>600</ymin>
+			<xmax>303</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>517</ymin>
+			<xmax>141</xmax>
+			<ymax>812</ymax>
 		</bndbox>
 	</object>
 </annotation>

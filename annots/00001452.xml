@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>between-heaven-and-hell-1989.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/between-heaven-and-hell-1989.jpg</path>
+	<path>./images/00001452.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>947</width>
@@ -21,6 +21,18 @@
 			<ymin>407</ymin>
 			<xmax>694</xmax>
 			<ymax>485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>645</ymin>
+			<xmax>559</xmax>
+			<ymax>710</ymax>
 		</bndbox>
 	</object>
 </annotation>

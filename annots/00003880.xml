@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eagle</folder>
+	<filename>2representation.jpg</filename>
+	<path>./images/00003880.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>411</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>16</ymin>
+			<xmax>398</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

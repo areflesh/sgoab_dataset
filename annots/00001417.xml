@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>young-woman-reclining-in-spanish-costume-1863.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/young-woman-reclining-in-spanish-costume-1863.jpg</path>
+	<path>./images/00001417.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1899</width>
@@ -21,6 +21,18 @@
 			<ymin>1169</ymin>
 			<xmax>1889</xmax>
 			<ymax>1452</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>144</ymin>
+			<xmax>1525</xmax>
+			<ymax>960</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>15study-for-an-arm-of-the-marble-david-and-the-figure-of-the-bronze-david.jpg</filename>
+	<path>./images/00002826.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1717</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>391</ymin>
+			<xmax>461</xmax>
+			<ymax>1382</ymax>
+		</bndbox>
+	</object>
+</annotation>

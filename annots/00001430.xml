@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>polish-cuisine-2012.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/polish-cuisine-2012.jpg</path>
+	<path>./images/00001430.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>720</width>

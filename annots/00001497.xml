@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cats</folder>
-	<filename>patience-1955.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/patience-1955.jpg</path>
+	<folder>images</folder>
+	<filename>00001497.jpg</filename>
+	<path>./images/00001497.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>65</ymin>
 			<xmax>788</xmax>
 			<ymax>795</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>370</ymin>
+			<xmax>312</xmax>
+			<ymax>413</ymax>
 		</bndbox>
 	</object>
 </annotation>

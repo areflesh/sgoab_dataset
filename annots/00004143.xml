@@ -1,0 +1,38 @@
+<annotation>
+	<folder>snake</folder>
+	<filename>113default.jpg</filename>
+	<path>./images/00004143.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>692</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>serpent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>142</ymin>
+			<xmax>393</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>serpent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>156</ymin>
+			<xmax>423</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

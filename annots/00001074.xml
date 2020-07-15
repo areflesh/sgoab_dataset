@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>gri217685_pic040.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/gri217685_pic040.jpg</path>
+	<path>./images/00001074.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>bird</name>
+		<name>eagle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

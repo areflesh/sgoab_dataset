@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>19martin-luther-as-a-monk-1520.jpg</filename>
+	<path>./images/00003056.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>538</width>
+		<height>750</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>48</ymin>
+			<xmax>510</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

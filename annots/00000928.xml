@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_RIJKS_-1770846367.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_RIJKS_-1770846367.jpg</path>
+	<path>./images/00000928.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>328</width>

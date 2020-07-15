@@ -1,0 +1,26 @@
+<annotation>
+	<folder>palm</folder>
+	<filename>74palm-trees-and-boulders-in-the-bay-of-rio-brazil-1873.jpg</filename>
+	<path>./images/00003267.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>944</width>
+		<height>673</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palm</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>6</ymin>
+			<xmax>435</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>COCO_val2014_000000185865.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/COCO_val2014_000000185865.jpg</path>
+	<filename>00000347.jpg</filename>
+	<path>./images/00000347.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>99</ymin>
 			<xmax>170</xmax>
 			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>120</ymin>
+			<xmax>373</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>153</ymin>
+			<xmax>570</xmax>
+			<ymax>269</ymax>
 		</bndbox>
 	</object>
 </annotation>

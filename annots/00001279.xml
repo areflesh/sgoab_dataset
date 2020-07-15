@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>landscape-on-volga-boats-by-the-riverbank-1878.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/landscape-on-volga-boats-by-the-riverbank-1878.jpg</path>
+	<path>./images/00001279.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1000</width>
@@ -33,6 +33,42 @@
 			<ymin>385</ymin>
 			<xmax>838</xmax>
 			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>353</ymin>
+			<xmax>785</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>323</ymin>
+			<xmax>849</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>313</ymin>
+			<xmax>981</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 </annotation>

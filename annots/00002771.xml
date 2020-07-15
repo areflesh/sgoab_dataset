@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>176ovid-and-corine.jpg</filename>
+	<path>./images/00002771.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>867</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>244</ymin>
+			<xmax>527</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

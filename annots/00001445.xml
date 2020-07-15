@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>hilda-and-i-at-burghclere.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/hilda-and-i-at-burghclere.jpg</path>
+	<path>./images/00001445.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>528</width>

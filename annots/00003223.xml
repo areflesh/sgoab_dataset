@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chalice</folder>
+	<filename>1746default.jpg</filename>
+	<path>./images/00003223.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>926</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>511</ymin>
+			<xmax>207</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>169</ymin>
+			<xmax>465</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

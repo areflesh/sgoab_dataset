@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>woman-with-a-fan.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/woman-with-a-fan.jpg</path>
+	<path>./images/00001485.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>804</width>
@@ -45,6 +45,30 @@
 			<ymin>329</ymin>
 			<xmax>287</xmax>
 			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>210</ymin>
+			<xmax>450</xmax>
+			<ymax>904</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>213</xmax>
+			<ymax>717</ymax>
 		</bndbox>
 	</object>
 </annotation>

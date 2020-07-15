@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crozier</folder>
+	<filename>90402_BK_NM_3107(1).jpeg</filename>
+	<path>./images/00004199.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>2044</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crozier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>373</ymin>
+			<xmax>1446</xmax>
+			<ymax>2523</ymax>
+		</bndbox>
+	</object>
+</annotation>

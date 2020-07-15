@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>261female-nude-leaning-1.jpg</filename>
+	<path>./images/00002710.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>52</ymin>
+			<xmax>693</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+</annotation>

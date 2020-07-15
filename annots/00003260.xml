@@ -1,0 +1,26 @@
+<annotation>
+	<folder>palm</folder>
+	<filename>10palm-tree-at-bordighera.jpg</filename>
+	<path>./images/00003260.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>2051</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>2</ymin>
+			<xmax>2202</xmax>
+			<ymax>1311</ymax>
+		</bndbox>
+	</object>
+</annotation>

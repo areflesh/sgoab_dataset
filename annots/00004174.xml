@@ -1,0 +1,26 @@
+<annotation>
+	<folder>serpent</folder>
+	<filename>55default.jpg</filename>
+	<path>./images/00004174.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>819</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>serpent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>790</ymin>
+			<xmax>809</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>

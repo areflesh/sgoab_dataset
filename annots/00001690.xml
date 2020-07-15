@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>embepu_f1691_pic2810.jpg</filename>
+	<path>./images/00001690.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>91</ymin>
+			<xmax>456</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

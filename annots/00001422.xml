@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>still-life-with-green-soup.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/still-life-with-green-soup.jpg</path>
+	<path>./images/00001422.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2261</width>
@@ -21,6 +21,18 @@
 			<ymin>429</ymin>
 			<xmax>2261</xmax>
 			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>1475</ymin>
+			<xmax>745</xmax>
+			<ymax>1571</ymax>
 		</bndbox>
 	</object>
 </annotation>

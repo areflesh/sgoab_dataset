@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bananas_apples_oranges</folder>
+	<filename>65lemons-apples-and-tulips-1865.jpg</filename>
+	<path>./images/00002550.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>474</ymin>
+			<xmax>339</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

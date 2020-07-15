@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>197571_1796.jpg</filename>
+	<path>./images/00002023.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>213</ymin>
+			<xmax>493</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lily</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>518</ymin>
+			<xmax>627</xmax>
+			<ymax>902</ymax>
+		</bndbox>
+	</object>
+</annotation>

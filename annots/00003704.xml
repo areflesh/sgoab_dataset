@@ -1,0 +1,38 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>8851883.05.0038.jpg</filename>
+	<path>./images/00003704.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>502</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>267</ymin>
+			<xmax>210</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>342</ymin>
+			<xmax>175</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

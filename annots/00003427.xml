@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>35rooster-and-taro-leaves-1948.jpg</filename>
+	<path>./images/00003427.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>370</ymin>
+			<xmax>241</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>mimicry.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/mimicry.jpg</path>
+	<path>./images/00001402.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>950</width>

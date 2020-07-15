@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00000295.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000295.jpg</path>
+	<path>./images/00000295.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,21 +17,21 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>18</xmin>
-			<ymin>19</ymin>
-			<xmax>167</xmax>
-			<ymax>121</ymax>
+			<xmin>17</xmin>
+			<ymin>21</ymin>
+			<xmax>163</xmax>
+			<ymax>111</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>shepherd</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>220</xmin>
-			<ymin>115</ymin>
-			<xmax>257</xmax>
+			<ymin>109</ymin>
+			<xmax>271</xmax>
 			<ymax>193</ymax>
 		</bndbox>
 	</object>
@@ -57,6 +57,54 @@
 			<ymin>131</ymin>
 			<xmax>152</xmax>
 			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>101</ymin>
+			<xmax>218</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>119</ymin>
+			<xmax>223</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>118</ymin>
+			<xmax>161</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>131</ymin>
+			<xmax>292</xmax>
+			<ymax>188</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,9 +1,9 @@
 <annotation>
 	<folder>birds</folder>
 	<filename>embhab_xb2867_pic05409.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/embhab_xb2867_pic05409.jpg</path>
+	<path>./images/00001076.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>183</width>

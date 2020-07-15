@@ -1,9 +1,9 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>IIHIM_-973452987.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/IIHIM_-973452987.jpg</path>
+	<path>./images/00001082.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>387</width>
@@ -21,6 +21,42 @@
 			<ymin>208</ymin>
 			<xmax>357</xmax>
 			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>206</ymin>
+			<xmax>296</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>98</ymin>
+			<xmax>262</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>159</ymin>
+			<xmax>77</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 </annotation>

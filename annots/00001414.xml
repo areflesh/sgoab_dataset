@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>portrait-of-natasha-lancere-with-a-cat-1924.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/portrait-of-natasha-lancere-with-a-cat-1924.jpg</path>
+	<path>./images/00001414.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>755</width>

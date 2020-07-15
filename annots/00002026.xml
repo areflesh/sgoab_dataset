@@ -1,0 +1,38 @@
+<annotation>
+	<folder>crown</folder>
+	<filename>456m035540.jpg</filename>
+	<path>./images/00002026.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>579</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>257</ymin>
+			<xmax>426</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>253</ymin>
+			<xmax>800</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

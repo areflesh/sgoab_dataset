@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cruc</folder>
 	<filename>257782407.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/257782407.jpg</path>
+	<path>./images/00000762.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>Pharos</database>
 	</source>
 	<size>
 		<width>300</width>

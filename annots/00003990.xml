@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>011001116196_8d87dd2c22_o.jpg</filename>
+	<path>./images/00003990.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>942</width>
+		<height>778</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>73</ymin>
+			<xmax>804</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>

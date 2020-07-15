@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>hydrangeas-1901.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/hydrangeas-1901.jpg</path>
+	<path>./images/00001440.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1030</width>

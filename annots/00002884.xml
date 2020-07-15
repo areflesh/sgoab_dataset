@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>231patrocles.jpg</filename>
+	<path>./images/00002884.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2291</width>
+		<height>1619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>141</ymin>
+			<xmax>2270</xmax>
+			<ymax>1569</ymax>
+		</bndbox>
+	</object>
+</annotation>

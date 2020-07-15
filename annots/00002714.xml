@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>297music.jpg</filename>
+	<path>./images/00002714.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1435</width>
+		<height>2933</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>155</ymin>
+			<xmax>1100</xmax>
+			<ymax>2889</ymax>
+		</bndbox>
+	</object>
+</annotation>

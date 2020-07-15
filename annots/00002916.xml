@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>300death-of-viala.jpg</filename>
+	<path>./images/00002916.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>4375</width>
+		<height>3542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>328</ymin>
+			<xmax>4330</xmax>
+			<ymax>3376</ymax>
+		</bndbox>
+	</object>
+</annotation>

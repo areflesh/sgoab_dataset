@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>black-cat-on-a-windowsill-1902.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/black-cat-on-a-windowsill-1902.jpg</path>
+	<path>./images/00001426.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>623</width>

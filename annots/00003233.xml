@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chalice</folder>
+	<filename>154071_2089.jpg</filename>
+	<path>./images/00003233.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>642</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>64</ymin>
+			<xmax>461</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>304</ymin>
+			<xmax>586</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

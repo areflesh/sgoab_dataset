@@ -1,7 +1,7 @@
 <annotation>
-	<folder>crucifixion+angels</folder>
+	<folder>images</folder>
 	<filename>00133.jpg</filename>
-	<path>/home/artem/Desktop/BSC/datasets/crucifixion+angels/00133.jpg</path>
+	<path>./images/00000338.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>31</ymin>
 			<xmax>278</xmax>
 			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lily</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>49</ymin>
+			<xmax>263</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>

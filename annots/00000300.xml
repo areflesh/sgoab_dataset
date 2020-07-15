@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00000300.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00000300.jpg</path>
+	<path>./images/00000300.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -56,6 +56,30 @@
 			<xmin>683</xmin>
 			<ymin>685</ymin>
 			<xmax>965</xmax>
+			<ymax>1521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>139</ymin>
+			<xmax>549</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>1423</ymin>
+			<xmax>594</xmax>
 			<ymax>1521</ymax>
 		</bndbox>
 	</object>

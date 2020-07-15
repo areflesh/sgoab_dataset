@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>embhab_li-9341_pic078.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/embhab_li-9341_pic078.jpg</path>
+	<path>./images/00001367.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -45,6 +45,30 @@
 			<ymin>256</ymin>
 			<xmax>279</xmax>
 			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>69</ymin>
+			<xmax>305</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>46</ymin>
+			<xmax>351</xmax>
+			<ymax>59</ymax>
 		</bndbox>
 	</object>
 </annotation>

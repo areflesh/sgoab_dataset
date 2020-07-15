@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>a-cat-at-the-window-of-a-painters-studios-1657.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/a-cat-at-the-window-of-a-painters-studios-1657.jpg</path>
+	<path>./images/00001456.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>512</width>

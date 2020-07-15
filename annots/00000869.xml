@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>folger_ill_fac074559.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/folger_ill_fac074559.jpg</path>
+	<filename>00000869.jpg</filename>
+	<path>./images/00000869.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,54 @@
 			<ymin>240</ymin>
 			<xmax>325</xmax>
 			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>102</ymin>
+			<xmax>254</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>49</ymin>
+			<xmax>278</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>290</ymin>
+			<xmax>218</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>282</ymin>
+			<xmax>247</xmax>
+			<ymax>317</ymax>
 		</bndbox>
 	</object>
 </annotation>

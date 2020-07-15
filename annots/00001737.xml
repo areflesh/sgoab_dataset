@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>15elephant-in-hortus-sanitatis.jpg</filename>
+	<path>./images/00001737.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>39</ymin>
+			<xmax>553</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

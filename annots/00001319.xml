@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>the-boatman-of-mortefontaine.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/the-boatman-of-mortefontaine.jpg</path>
+	<path>./images/00001319.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>852</width>
@@ -21,6 +21,30 @@
 			<ymin>444</ymin>
 			<xmax>337</xmax>
 			<ymax>483</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>1</ymin>
+			<xmax>852</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>200</xmax>
+			<ymax>475</ymax>
 		</bndbox>
 	</object>
 </annotation>

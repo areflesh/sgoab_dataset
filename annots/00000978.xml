@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>2046.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/2046.jpg</path>
+	<path>./images/00000978.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,90 @@
 			<ymin>1199</ymin>
 			<xmax>3456</xmax>
 			<ymax>1943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2034</xmin>
+			<ymin>685</ymin>
+			<xmax>2634</xmax>
+			<ymax>1763</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2856</xmin>
+			<ymin>1015</ymin>
+			<xmax>3184</xmax>
+			<ymax>1729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3314</xmin>
+			<ymin>1102</ymin>
+			<xmax>3492</xmax>
+			<ymax>1424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3159</xmin>
+			<ymin>1177</ymin>
+			<xmax>3531</xmax>
+			<ymax>1693</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>1102</ymin>
+			<xmax>1406</xmax>
+			<ymax>2029</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>1485</ymin>
+			<xmax>420</xmax>
+			<ymax>1740</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>726</xmin>
+			<ymin>1093</ymin>
+			<xmax>1262</xmax>
+			<ymax>1293</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>dpd_1902.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/dpd_1902.jpg</path>
+	<path>./images/00001093.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,30 @@
 			<ymin>37</ymin>
 			<xmax>237</xmax>
 			<ymax>65</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>63</ymin>
+			<xmax>356</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>31</ymin>
+			<xmax>357</xmax>
+			<ymax>87</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>CESR_0009_555_img_01.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/CESR_0009_555_img_01.jpg</path>
+	<path>./images/00001042.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>8</ymin>
 			<xmax>467</xmax>
 			<ymax>154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>7</ymin>
+			<xmax>216</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>152</ymin>
+			<xmax>357</xmax>
+			<ymax>334</ymax>
 		</bndbox>
 	</object>
 </annotation>

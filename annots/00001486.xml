@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>children-playing-with-a-cat-1908.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/children-playing-with-a-cat-1908.jpg</path>
+	<path>./images/00001486.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2094</width>
@@ -32,6 +32,30 @@
 			<xmin>8</xmin>
 			<ymin>230</ymin>
 			<xmax>931</xmax>
+			<ymax>1698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>656</xmin>
+			<ymin>503</ymin>
+			<xmax>1306</xmax>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>844</xmin>
+			<ymin>62</ymin>
+			<xmax>1961</xmax>
 			<ymax>1698</ymax>
 		</bndbox>
 	</object>

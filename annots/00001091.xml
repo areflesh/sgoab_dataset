@@ -1,9 +1,9 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>IIHIM_-368837877.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/IIHIM_-368837877.jpg</path>
+	<path>./images/00001091.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>bird</name>
+		<name>rooster</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -69,6 +69,54 @@
 			<ymin>75</ymin>
 			<xmax>216</xmax>
 			<ymax>121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>94</ymin>
+			<xmax>139</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>121</ymin>
+			<xmax>235</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>105</ymin>
+			<xmax>359</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>166</ymin>
+			<xmax>251</xmax>
+			<ymax>208</ymax>
 		</bndbox>
 	</object>
 </annotation>

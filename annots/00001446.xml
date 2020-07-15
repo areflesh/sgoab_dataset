@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
-	<filename>thérèse-dreaming-1938.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/thérèse-dreaming-1938.jpg</path>
+	<filename>th&#233;r&#232;se-dreaming-1938.jpg</filename>
+	<path>./images/00001446.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>945</width>

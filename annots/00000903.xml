@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>embmne_mig1591_pic039.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/embmne_mig1591_pic039.jpg</path>
+	<path>./images/00000903.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,30 @@
 			<ymin>296</ymin>
 			<xmax>283</xmax>
 			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>44</ymin>
+			<xmax>304</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>26</ymin>
+			<xmax>216</xmax>
+			<ymax>450</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>biblia_sacra_20020917001.jpg</filename>
+	<path>./images/00001718.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>367</ymin>
+			<xmax>292</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

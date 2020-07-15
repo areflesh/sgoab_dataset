@@ -1,0 +1,38 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>angel206.jpg</filename>
+	<path>./images/00003650.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>2500</width>
+		<height>1514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>128</ymin>
+			<xmax>2113</xmax>
+			<ymax>1396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1451</xmin>
+			<ymin>837</ymin>
+			<xmax>2088</xmax>
+			<ymax>1386</ymax>
+		</bndbox>
+	</object>
+</annotation>

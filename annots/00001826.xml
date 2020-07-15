@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zebras</folder>
+	<filename>12man-with-zebra-1988.jpg</filename>
+	<path>./images/00001826.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>98</ymin>
+			<xmax>429</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

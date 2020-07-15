@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>portrait-in-an-interior.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/portrait-in-an-interior.jpg</path>
+	<path>./images/00001439.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2438</width>
@@ -69,6 +69,78 @@
 			<ymin>779</ymin>
 			<xmax>453</xmax>
 			<ymax>1743</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>839</ymin>
+			<xmax>912</xmax>
+			<ymax>1800</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>423</ymin>
+			<xmax>745</xmax>
+			<ymax>1331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>451</ymin>
+			<xmax>380</xmax>
+			<ymax>1298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1737</xmin>
+			<ymin>286</ymin>
+			<xmax>2108</xmax>
+			<ymax>1149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1980</xmin>
+			<ymin>553</ymin>
+			<xmax>2438</xmax>
+			<ymax>1213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2118</xmin>
+			<ymin>1167</ymin>
+			<xmax>2216</xmax>
+			<ymax>1292</ymax>
 		</bndbox>
 	</object>
 </annotation>

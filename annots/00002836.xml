@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>55ignudo-15.jpg</filename>
+	<path>./images/00002836.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>552</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>52</ymin>
+			<xmax>507</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

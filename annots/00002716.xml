@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>8male-nude-with-a-glass-and-snake-asclepius.jpg</filename>
+	<path>./images/00002716.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>16</ymin>
+			<xmax>569</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+</annotation>

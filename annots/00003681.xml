@@ -1,0 +1,38 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>angel187.jpg</filename>
+	<path>./images/00003681.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>2824</width>
+		<height>2060</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>213</ymin>
+			<xmax>2524</xmax>
+			<ymax>1908</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bird</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>993</xmin>
+			<ymin>155</ymin>
+			<xmax>2704</xmax>
+			<ymax>1317</ymax>
+		</bndbox>
+	</object>
+</annotation>

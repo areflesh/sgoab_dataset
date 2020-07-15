@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>honfleur-fishing-boat.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/honfleur-fishing-boat.jpg</path>
+	<path>./images/00001323.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>800</width>
@@ -21,6 +21,18 @@
 			<ymin>5</ymin>
 			<xmax>582</xmax>
 			<ymax>467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>235</ymin>
+			<xmax>361</xmax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 </annotation>

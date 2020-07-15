@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>boats-lying-at-low-tide-at-facamp.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boats-lying-at-low-tide-at-facamp.jpg</path>
+	<path>./images/00001312.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>827</width>
@@ -21,6 +21,30 @@
 			<ymin>73</ymin>
 			<xmax>472</xmax>
 			<ymax>832</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>631</ymin>
+			<xmax>629</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>219</ymin>
+			<xmax>827</xmax>
+			<ymax>979</ymax>
 		</bndbox>
 	</object>
 </annotation>

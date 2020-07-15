@@ -1,0 +1,38 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>1784G70031-84a.jpg</filename>
+	<path>./images/00003102.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>974</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>903</xmin>
+			<ymin>111</ymin>
+			<xmax>1174</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>136</ymin>
+			<xmax>715</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

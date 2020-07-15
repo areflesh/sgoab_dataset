@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>42white-elephant-and-animals.jpg</filename>
+	<path>./images/00001792.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>105</ymin>
+			<xmax>307</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

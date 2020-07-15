@@ -1,0 +1,38 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>HansMemlingHell.jpg</filename>
+	<path>./images/00004220.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>22</ymin>
+			<xmax>244</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>259</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

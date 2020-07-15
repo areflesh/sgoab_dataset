@@ -1,7 +1,7 @@
 <annotation>
-	<folder>crucifixion+angels</folder>
-	<filename>00349.jpg</filename>
-	<path>/home/artem/Desktop/BSC/datasets/crucifixion+angels/00349.jpg</path>
+	<folder>images</folder>
+	<filename>00000288.jpg</filename>
+	<path>./images/00000288.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,54 @@
 			<ymin>75</ymin>
 			<xmax>189</xmax>
 			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>16</ymin>
+			<xmax>257</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>297</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>327</ymin>
+			<xmax>297</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>palm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>80</ymin>
+			<xmax>274</xmax>
+			<ymax>260</ymax>
 		</bndbox>
 	</object>
 </annotation>

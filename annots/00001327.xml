@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>fisherman-boating-along-a-wooded-landscape.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/fisherman-boating-along-a-wooded-landscape.jpg</path>
+	<path>./images/00001327.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>928</width>
@@ -21,6 +21,42 @@
 			<ymin>582</ymin>
 			<xmax>628</xmax>
 			<ymax>651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>543</ymin>
+			<xmax>363</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>54</ymin>
+			<xmax>643</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>647</xmin>
+			<ymin>28</ymin>
+			<xmax>928</xmax>
+			<ymax>464</ymax>
 		</bndbox>
 	</object>
 </annotation>

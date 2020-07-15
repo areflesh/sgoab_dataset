@@ -1,0 +1,26 @@
+<annotation>
+	<folder>angels</folder>
+	<filename>angel100.jpg</filename>
+	<path>./images/00003634.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1699</width>
+		<height>2274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>583</ymin>
+			<xmax>1379</xmax>
+			<ymax>1880</ymax>
+		</bndbox>
+	</object>
+</annotation>

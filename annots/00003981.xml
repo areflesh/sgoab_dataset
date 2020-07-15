@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>1993g70035-14.jpg</filename>
+	<path>./images/00003981.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>966</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>1139</ymin>
+			<xmax>514</xmax>
+			<ymax>1324</ymax>
+		</bndbox>
+	</object>
+</annotation>

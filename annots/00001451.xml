@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>hand-with-bowl-and-a-cat-1885(1).jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/hand-with-bowl-and-a-cat-1885(1).jpg</path>
+	<path>./images/00001451.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1072</width>

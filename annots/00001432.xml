@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>the-cat-in-the-mirror.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/the-cat-in-the-mirror.jpg</path>
+	<path>./images/00001432.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1762</width>
@@ -21,6 +21,18 @@
 			<ymin>412</ymin>
 			<xmax>1637</xmax>
 			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>122</ymin>
+			<xmax>1146</xmax>
+			<ymax>1752</ymax>
 		</bndbox>
 	</object>
 </annotation>

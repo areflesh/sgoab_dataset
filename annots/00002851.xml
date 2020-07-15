@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>262female-nude-raising-her-arm.jpg</filename>
+	<path>./images/00002851.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>627</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>27</ymin>
+			<xmax>625</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00348.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/00348.jpg</path>
+	<path>./images/00000126.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>6</ymin>
 			<xmax>275</xmax>
 			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lily</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>85</ymin>
+			<xmax>261</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 </annotation>

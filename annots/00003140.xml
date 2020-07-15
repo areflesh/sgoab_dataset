@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chalice</folder>
+	<filename>1978c0893-01.jpg</filename>
+	<path>./images/00003140.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1227</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>1194</ymin>
+			<xmax>476</xmax>
+			<ymax>1317</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>1107</ymin>
+			<xmax>606</xmax>
+			<ymax>1342</ymax>
+		</bndbox>
+	</object>
+</annotation>

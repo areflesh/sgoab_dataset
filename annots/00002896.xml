@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>244nude-maja-1800.jpg</filename>
+	<path>./images/00002896.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>4724</width>
+		<height>2396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>166</ymin>
+			<xmax>3797</xmax>
+			<ymax>1981</ymax>
+		</bndbox>
+	</object>
+</annotation>

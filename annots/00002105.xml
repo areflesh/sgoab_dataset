@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>204786_872_1.jpg</filename>
+	<path>./images/00002105.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>566</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>127</ymin>
+			<xmax>489</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>96</ymin>
+			<xmax>476</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+</annotation>

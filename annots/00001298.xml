@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>the-studio-boat-1876.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/the-studio-boat-1876.jpg</path>
+	<path>./images/00001298.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1240</width>
@@ -21,6 +21,30 @@
 			<ymin>434</ymin>
 			<xmax>267</xmax>
 			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>1</ymin>
+			<xmax>1240</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>463</xmax>
+			<ymax>532</ymax>
 		</bndbox>
 	</object>
 </annotation>

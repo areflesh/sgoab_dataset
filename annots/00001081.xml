@@ -1,7 +1,7 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>folger_ill_pic075369.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/folger_ill_pic075369.jpg</path>
+	<path>./images/00001081.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>bird</name>
+		<name>eagle</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,42 @@
 			<ymin>166</ymin>
 			<xmax>405</xmax>
 			<ymax>290</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>65</ymin>
+			<xmax>192</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>63</ymin>
+			<xmax>362</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>68</ymin>
+			<xmax>405</xmax>
+			<ymax>175</ymax>
 		</bndbox>
 	</object>
 </annotation>

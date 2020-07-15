@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>18an-augustinian-friar-praying.jpg</filename>
+	<path>./images/00003001.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2351</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>417</ymin>
+			<xmax>2242</xmax>
+			<ymax>3000</ymax>
+		</bndbox>
+	</object>
+</annotation>

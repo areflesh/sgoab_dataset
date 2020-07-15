@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>beach-with-sailing-boats.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/beach-with-sailing-boats.jpg</path>
+	<path>./images/00001345.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>755</width>
@@ -33,6 +33,18 @@
 			<ymin>217</ymin>
 			<xmax>338</xmax>
 			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>220</ymin>
+			<xmax>444</xmax>
+			<ymax>246</ymax>
 		</bndbox>
 	</object>
 </annotation>

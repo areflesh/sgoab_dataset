@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crowns</folder>
+	<filename>embstma_9192_pic109.jpg</filename>
+	<path>./images/00001962.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>477</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>118</ymin>
+			<xmax>247</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

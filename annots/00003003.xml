@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>28beato-serapio-1628.jpg</filename>
+	<path>./images/00003003.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>924</width>
+		<height>1108</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>112</ymin>
+			<xmax>815</xmax>
+			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+</annotation>

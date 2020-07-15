@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>embmne_mig1591_pic150.jpg</filename>
+	<path>./images/00001735.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>187</ymin>
+			<xmax>335</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

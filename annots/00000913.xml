@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>gri9925935790001551_pic030.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/gri9925935790001551_pic030.jpg</path>
+	<path>./images/00000913.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>159</ymin>
 			<xmax>271</xmax>
 			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>165</ymin>
+			<xmax>414</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>313</ymin>
+			<xmax>215</xmax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 </annotation>

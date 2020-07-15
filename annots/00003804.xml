@@ -1,0 +1,38 @@
+<annotation>
+	<folder>deer</folder>
+	<filename>90K022936.jpg</filename>
+	<path>./images/00003804.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1012</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>720</ymin>
+			<xmax>523</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>39</ymin>
+			<xmax>799</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

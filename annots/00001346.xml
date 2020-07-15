@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>boats-at-etretat-1920.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boats-at-etretat-1920.jpg</path>
+	<path>./images/00001346.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>946</width>
@@ -21,6 +21,30 @@
 			<ymin>56</ymin>
 			<xmax>681</xmax>
 			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>436</ymin>
+			<xmax>734</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>446</ymin>
+			<xmax>801</xmax>
+			<ymax>534</ymax>
 		</bndbox>
 	</object>
 </annotation>

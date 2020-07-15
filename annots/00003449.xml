@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>10the-story-of-the-rooster-the-little-goat.jpg</filename>
+	<path>./images/00003449.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>758</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymin>272</ymin>
+			<xmax>685</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

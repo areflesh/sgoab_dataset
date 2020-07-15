@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>in-the-norvegienne-boat-at-giverny.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/in-the-norvegienne-boat-at-giverny.jpg</path>
+	<path>./images/00001289.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2527</width>
@@ -21,6 +21,42 @@
 			<ymin>697</ymin>
 			<xmax>2515</xmax>
 			<ymax>1119</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>958</xmin>
+			<ymin>168</ymin>
+			<xmax>1401</xmax>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1493</xmin>
+			<ymin>474</ymin>
+			<xmax>1783</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1975</xmin>
+			<ymin>452</ymin>
+			<xmax>2397</xmax>
+			<ymax>899</ymax>
 		</bndbox>
 	</object>
 </annotation>

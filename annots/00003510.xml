@@ -1,0 +1,26 @@
+<annotation>
+	<folder>knight</folder>
+	<filename>65knight.jpg</filename>
+	<path>./images/00003510.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>4616</width>
+		<height>3657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>172</ymin>
+			<xmax>4506</xmax>
+			<ymax>3560</ymax>
+		</bndbox>
+	</object>
+</annotation>

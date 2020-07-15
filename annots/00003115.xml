@@ -1,0 +1,38 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>757BLDIDFA004334.jpg</filename>
+	<path>./images/00003115.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>839</width>
+		<height>1089</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>353</ymin>
+			<xmax>534</xmax>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>592</ymin>
+			<xmax>635</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+</annotation>

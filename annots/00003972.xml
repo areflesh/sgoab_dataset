@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trumpet</folder>
+	<filename>128G70032-02a.jpg</filename>
+	<path>./images/00003972.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>918</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trumpet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>189</ymin>
+			<xmax>872</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_1268745552.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_1268745552.jpg</path>
+	<path>./images/00000884.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,30 @@
 			<ymin>241</ymin>
 			<xmax>492</xmax>
 			<ymax>362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>25</ymin>
+			<xmax>401</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>11</ymin>
+			<xmax>415</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 </annotation>

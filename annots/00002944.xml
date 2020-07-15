@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>34the-study-of-adam-1.jpg</filename>
+	<path>./images/00002944.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>859</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>856</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

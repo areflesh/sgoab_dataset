@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>gri9925935790001551_pic158.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/gri9925935790001551_pic158.jpg</path>
+	<path>./images/00000850.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,66 @@
 			<ymin>226</ymin>
 			<xmax>261</xmax>
 			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>266</ymin>
+			<xmax>100</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>201</ymin>
+			<xmax>192</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>281</ymin>
+			<xmax>344</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>316</ymin>
+			<xmax>438</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>212</ymin>
+			<xmax>69</xmax>
+			<ymax>231</ymax>
 		</bndbox>
 	</object>
 </annotation>

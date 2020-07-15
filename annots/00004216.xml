@@ -1,0 +1,38 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>Devil_captures_woman.jpg</filename>
+	<path>./images/00004216.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>1889</width>
+		<height>2692</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>24</ymin>
+			<xmax>1889</xmax>
+			<ymax>2051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>747</ymin>
+			<xmax>1636</xmax>
+			<ymax>2601</ymax>
+		</bndbox>
+	</object>
+</annotation>

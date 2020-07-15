@@ -1,0 +1,38 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>18640009522c.jpg</filename>
+	<path>./images/00003077.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>147</ymin>
+			<xmax>281</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>277</ymin>
+			<xmax>253</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

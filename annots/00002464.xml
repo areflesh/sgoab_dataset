@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skull</folder>
+	<filename>20still-life-with-skull-1898.jpg</filename>
+	<path>./images/00002464.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1245</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>195</ymin>
+			<xmax>603</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>dinner-menu-at-may-belfort-s-18-rue-clapeyron.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/dinner-menu-at-may-belfort-s-18-rue-clapeyron.jpg</path>
+	<path>./images/00001429.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>622</width>

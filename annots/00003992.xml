@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>1785E124013.jpg</filename>
+	<path>./images/00003992.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1043</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>388</ymin>
+			<xmax>1307</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>152</ymin>
+			<xmax>1335</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trumpet</folder>
+	<filename>trumpet15.jpg</filename>
+	<path>./images/00003974.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trumpet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>768</ymin>
+			<xmax>2368</xmax>
+			<ymax>1654</ymax>
+		</bndbox>
+	</object>
+</annotation>

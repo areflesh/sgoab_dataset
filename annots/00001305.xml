@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>a-fishing-boat-at-sea-1888-1(1).jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/a-fishing-boat-at-sea-1888-1(1).jpg</path>
+	<path>./images/00001305.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1024</width>
@@ -21,6 +21,30 @@
 			<ymin>44</ymin>
 			<xmax>442</xmax>
 			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>516</xmin>
+			<ymin>162</ymin>
+			<xmax>584</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymin>174</ymin>
+			<xmax>695</xmax>
+			<ymax>215</ymax>
 		</bndbox>
 	</object>
 </annotation>

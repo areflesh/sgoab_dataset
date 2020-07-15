@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>106c6207-07a.jpg</filename>
+	<path>./images/00003469.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1320</width>
+		<height>1520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>389</ymin>
+			<xmax>965</xmax>
+			<ymax>1079</ymax>
+		</bndbox>
+	</object>
+</annotation>

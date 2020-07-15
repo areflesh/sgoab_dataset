@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>17male-nude-and-arm-of-bearded-man-1504.jpg</filename>
+	<path>./images/00002822.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1363</width>
+		<height>2834</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>859</ymin>
+			<xmax>742</xmax>
+			<ymax>2720</ymax>
+		</bndbox>
+	</object>
+</annotation>

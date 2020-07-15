@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crowns</folder>
+	<filename>cerl_provenance_152.jpg</filename>
+	<path>./images/00001992.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>33</ymin>
+			<xmax>315</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

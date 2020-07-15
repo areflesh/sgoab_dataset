@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bananas_apples_oranges</folder>
+	<filename>384apple-and-egg-1982.jpg</filename>
+	<path>./images/00002619.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>327</ymin>
+			<xmax>192</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

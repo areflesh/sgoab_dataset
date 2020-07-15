@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chalice</folder>
+	<filename>1440m090321.jpg</filename>
+	<path>./images/00003232.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>850</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>94</ymin>
+			<xmax>456</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>

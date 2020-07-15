@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>mexico-1948.jpg</filename>
+	<path>./images/00001509.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>655</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>867</ymin>
+			<xmax>506</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

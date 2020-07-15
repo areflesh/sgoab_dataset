@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>80study-of-nude-man-1.jpg</filename>
+	<path>./images/00002769.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>557</width>
+		<height>995</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>20</ymin>
+			<xmax>518</xmax>
+			<ymax>980</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>76e4_016v_min_b.jpg</filename>
+	<path>./images/00001706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>64</ymin>
+			<xmax>385</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

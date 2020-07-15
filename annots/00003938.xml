@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dove</folder>
+	<filename>941042_repro.jpg</filename>
+	<path>./images/00003938.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>2380</width>
+		<height>3543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1841</xmin>
+			<ymin>906</ymin>
+			<xmax>2137</xmax>
+			<ymax>1154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>873</ymin>
+			<xmax>2260</xmax>
+			<ymax>3121</ymax>
+		</bndbox>
+	</object>
+</annotation>

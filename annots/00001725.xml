@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>17elephant-1907.jpg</filename>
+	<path>./images/00001725.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>457</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>37</ymin>
+			<xmax>446</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

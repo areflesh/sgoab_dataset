@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00256.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00256.jpg</path>
+	<path>./images/00000256.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>prayer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -93,6 +93,18 @@
 			<ymin>547</ymin>
 			<xmax>419</xmax>
 			<ymax>771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>30</ymin>
+			<xmax>170</xmax>
+			<ymax>429</ymax>
 		</bndbox>
 	</object>
 </annotation>

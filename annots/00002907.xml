@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>314female-nude-reclining-on-a-divan-1826(1).jpg</filename>
+	<path>./images/00002907.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1198</width>
+		<height>920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>59</ymin>
+			<xmax>1073</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

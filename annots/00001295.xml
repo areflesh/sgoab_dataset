@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>souvenir-of-italy-the-moored-boat-1864.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/souvenir-of-italy-the-moored-boat-1864.jpg</path>
+	<path>./images/00001295.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1080</width>
@@ -21,6 +21,42 @@
 			<ymin>534</ymin>
 			<xmax>639</xmax>
 			<ymax>614</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>528</ymin>
+			<xmax>611</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>1</ymin>
+			<xmax>1080</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>58</ymin>
+			<xmax>176</xmax>
+			<ymax>629</ymax>
 		</bndbox>
 	</object>
 </annotation>

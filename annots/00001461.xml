@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>eiaha-ohipa-or-tahitians-in-a-room-1896-1896.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/eiaha-ohipa-or-tahitians-in-a-room-1896-1896.jpg</path>
+	<path>./images/00001461.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>701</width>

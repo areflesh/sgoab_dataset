@@ -1,0 +1,38 @@
+<annotation>
+	<folder>crown</folder>
+	<filename>3318default.jpg</filename>
+	<path>./images/00002010.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>192</ymin>
+			<xmax>392</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>167</ymin>
+			<xmax>391</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

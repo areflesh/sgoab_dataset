@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>still-life-table-books-and-the-pipes-1929.jpg</filename>
+	<path>./images/00001551.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>765</width>
+		<height>898</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>143</ymin>
+			<xmax>212</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>

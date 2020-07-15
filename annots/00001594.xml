@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>dpd_1243.jpg</filename>
+	<path>./images/00001594.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>467</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>136</ymin>
+			<xmax>268</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

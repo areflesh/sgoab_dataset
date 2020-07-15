@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>27rooster-and-chicks.jpg</filename>
+	<path>./images/00003467.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>1017</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>193</ymin>
+			<xmax>347</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+</annotation>

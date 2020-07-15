@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>128judith.jpg</filename>
+	<path>./images/00002752.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>752</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>9</ymin>
+			<xmax>752</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

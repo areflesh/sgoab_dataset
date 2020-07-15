@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>commonplaces-everyday-1971.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/commonplaces-everyday-1971.jpg</path>
+	<path>./images/00001472.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1025</width>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>299reclining-female-nude.jpg</filename>
+	<path>./images/00002946.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1786</width>
+		<height>1012</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>172</ymin>
+			<xmax>1786</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+</annotation>

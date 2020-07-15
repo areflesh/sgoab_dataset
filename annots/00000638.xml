@@ -1,9 +1,9 @@
 <annotation>
   <folder>coco</folder>
-  <filename>COCO_val2014_000000528269.jpg</filename>
-  <path>coco</path>
+  <filename>00000638.jpg</filename>
+  <path>./images/00000638.jpg</path>
   <source>
-    <database>coco</database>
+    <database>COCO</database>
   </source>
   <size>
     <width>640</width>

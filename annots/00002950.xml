@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>312odalisque(1).jpg</filename>
+	<path>./images/00002950.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>760</width>
+		<height>634</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>149</ymin>
+			<xmax>749</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

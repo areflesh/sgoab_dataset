@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>fishing-boat-coming-in-before-the-wind-the-kearsarge-in-boulogne-1864.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/fishing-boat-coming-in-before-the-wind-the-kearsarge-in-boulogne-1864.jpg</path>
+	<path>./images/00001339.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1080</width>
@@ -81,6 +81,42 @@
 			<ymin>222</ymin>
 			<xmax>52</xmax>
 			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>40</ymin>
+			<xmax>306</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>131</ymin>
+			<xmax>170</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>214</ymin>
+			<xmax>93</xmax>
+			<ymax>284</ymax>
 		</bndbox>
 	</object>
 </annotation>

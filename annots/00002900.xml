@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>276study-of-the-human-figure-anterior-view-from-a-comparative-anatomical-exposition-of-the.jpg</filename>
+	<path>./images/00002900.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>826</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>42</ymin>
+			<xmax>597</xmax>
+			<ymax>1247</ymax>
+		</bndbox>
+	</object>
+</annotation>

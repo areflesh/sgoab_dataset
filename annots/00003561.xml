@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>91.jpg</filename>
+	<path>./images/00003561.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>561</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prayer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>216</ymin>
+			<xmax>396</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>40</ymin>
+			<xmax>537</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

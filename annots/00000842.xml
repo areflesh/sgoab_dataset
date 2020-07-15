@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>embhab_xb4463_pic119.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/embhab_xb4463_pic119.jpg</path>
+	<path>./images/00000842.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,42 @@
 			<ymin>85</ymin>
 			<xmax>273</xmax>
 			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>knight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>48</ymin>
+			<xmax>363</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>11</ymin>
+			<xmax>385</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>17</ymin>
+			<xmax>360</xmax>
+			<ymax>87</ymax>
 		</bndbox>
 	</object>
 </annotation>

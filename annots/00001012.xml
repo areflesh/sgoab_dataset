@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>3940.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/3940.jpg</path>
+	<path>./images/00001012.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

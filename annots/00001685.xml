@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>6space-elephant.jpg</filename>
+	<path>./images/00001685.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>834</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>534</ymin>
+			<xmax>694</xmax>
+			<ymax>929</ymax>
+		</bndbox>
+	</object>
+</annotation>

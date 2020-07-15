@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>girl-on-a-bed.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/girl-on-a-bed.jpg</path>
+	<path>./images/00001397.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>374</width>
@@ -21,6 +21,18 @@
 			<ymin>65</ymin>
 			<xmax>74</xmax>
 			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>26</ymin>
+			<xmax>337</xmax>
+			<ymax>304</ymax>
 		</bndbox>
 	</object>
 </annotation>

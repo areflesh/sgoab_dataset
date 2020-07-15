@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dove</folder>
+	<filename>10511044452513_f50fb2de34_o.jpg</filename>
+	<path>./images/00003921.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>525</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>136</ymin>
+			<xmax>366</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

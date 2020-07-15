@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>not_detected_212138.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/not_detected_212138.jpg</path>
+	<path>./images/00001326.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1755</width>
@@ -45,6 +45,18 @@
 			<ymin>8</ymin>
 			<xmax>1180</xmax>
 			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1236</xmin>
+			<ymin>11</ymin>
+			<xmax>1447</xmax>
+			<ymax>497</ymax>
 		</bndbox>
 	</object>
 </annotation>

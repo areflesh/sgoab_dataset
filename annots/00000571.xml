@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>embhab_xb2867_pic06413.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/embhab_xb2867_pic06413.jpg</path>
+	<path>./images/00000571.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>193</width>

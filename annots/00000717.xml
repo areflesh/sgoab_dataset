@@ -1,7 +1,7 @@
 <annotation>
-	<folder>angels</folder>
-	<filename>511526807.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/angels/511526807.jpg</path>
+	<folder>images</folder>
+	<filename>00000717.jpg</filename>
+	<path>./images/00000717.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,54 @@
 			<ymin>315</ymin>
 			<xmax>523</xmax>
 			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>425</ymin>
+			<xmax>309</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>336</ymin>
+			<xmax>623</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>377</ymin>
+			<xmax>455</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crozier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>290</ymin>
+			<xmax>568</xmax>
+			<ymax>596</ymax>
 		</bndbox>
 	</object>
 </annotation>

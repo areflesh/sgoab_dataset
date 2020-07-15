@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>288male-academy-figure-1821(1).jpg</filename>
+	<path>./images/00002964.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>17</ymin>
+			<xmax>471</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

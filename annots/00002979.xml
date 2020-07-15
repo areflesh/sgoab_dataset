@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>866default.jpg</filename>
+	<path>./images/00002979.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>261</ymin>
+			<xmax>237</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

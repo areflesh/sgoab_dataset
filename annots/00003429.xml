@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>33bamboo-and-rooster-1942.jpg</filename>
+	<path>./images/00003429.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>315</ymin>
+			<xmax>160</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

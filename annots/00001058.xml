@@ -1,9 +1,9 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>embhab_li63_2_pic042.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/embhab_li63_2_pic042.jpg</path>
+	<path>./images/00001058.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,30 @@
 			<ymin>200</ymin>
 			<xmax>190</xmax>
 			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>36</ymin>
+			<xmax>354</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>45</ymin>
+			<xmax>377</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
-<annotation>
+<annotation verified="yes">
 	<folder>images</folder>
 	<filename>2052.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/2052.jpg</path>
+	<path>./images/00001016.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4876</xmin>
-			<ymin>2047</ymin>
-			<xmax>5190</xmax>
-			<ymax>2518</ymax>
+			<xmin>4872</xmin>
+			<ymin>2079</ymin>
+			<xmax>5186</xmax>
+			<ymax>2550</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -93,6 +93,150 @@
 			<ymin>1690</ymin>
 			<xmax>3209</xmax>
 			<ymax>2642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4119</xmin>
+			<ymin>1809</ymin>
+			<xmax>4757</xmax>
+			<ymax>2623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3733</xmin>
+			<ymin>1913</ymin>
+			<xmax>4100</xmax>
+			<ymax>2471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3452</xmin>
+			<ymin>1894</ymin>
+			<xmax>3795</xmax>
+			<ymax>2375</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4923</xmin>
+			<ymin>1952</ymin>
+			<xmax>5066</xmax>
+			<ymax>2175</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1814</xmin>
+			<ymin>1685</ymin>
+			<xmax>2485</xmax>
+			<ymax>1909</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2319</xmin>
+			<ymin>1723</ymin>
+			<xmax>2719</xmax>
+			<ymax>2323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4057</xmin>
+			<ymin>1575</ymin>
+			<xmax>4342</xmax>
+			<ymax>2009</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3419</xmin>
+			<ymin>1704</ymin>
+			<xmax>3514</xmax>
+			<ymax>2075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4319</xmin>
+			<ymin>409</ymin>
+			<xmax>5566</xmax>
+			<ymax>3056</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2690</xmin>
+			<ymin>490</ymin>
+			<xmax>3714</xmax>
+			<ymax>2142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>385</ymin>
+			<xmax>1957</xmax>
+			<ymax>3099</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3747</xmin>
+			<ymin>1028</ymin>
+			<xmax>4433</xmax>
+			<ymax>1952</ymax>
 		</bndbox>
 	</object>
 </annotation>

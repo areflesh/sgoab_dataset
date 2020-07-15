@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cats</folder>
-	<filename>the-effect-is-spoiled-1915.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/the-effect-is-spoiled-1915.jpg</path>
+	<folder>images</folder>
+	<filename>00001495.jpg</filename>
+	<path>./images/00001495.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,30 @@
 			<ymin>666</ymin>
 			<xmax>390</xmax>
 			<ymax>798</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>338</ymin>
+			<xmax>480</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>212</ymin>
+			<xmax>579</xmax>
+			<ymax>763</ymax>
 		</bndbox>
 	</object>
 </annotation>

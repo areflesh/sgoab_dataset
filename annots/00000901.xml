@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_RIJKS_-262198279.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_RIJKS_-262198279.jpg</path>
+	<path>./images/00000901.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,30 @@
 			<ymin>32</ymin>
 			<xmax>452</xmax>
 			<ymax>209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>52</ymin>
+			<xmax>380</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>50</ymin>
+			<xmax>106</xmax>
+			<ymax>115</ymax>
 		</bndbox>
 	</object>
 </annotation>

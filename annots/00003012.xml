@@ -1,0 +1,26 @@
+<annotation>
+	<folder>monks</folder>
+	<filename>52explosion-of-arkadion-monastery-on-crete-in-1866-1867.jpg</filename>
+	<path>./images/00003012.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>837</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>270</ymin>
+			<xmax>709</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+</annotation>

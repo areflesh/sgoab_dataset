@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crozier</folder>
+	<filename>90402_BK_17203.jpeg</filename>
+	<path>./images/00004194.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1745</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crozier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>438</xmin>
+			<ymin>442</ymin>
+			<xmax>1457</xmax>
+			<ymax>2852</ymax>
+		</bndbox>
+	</object>
+</annotation>

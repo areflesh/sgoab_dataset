@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cruc</folder>
-	<filename>409972433.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/409972433.jpg</path>
+	<folder>images</folder>
+	<filename>00000770.jpg</filename>
+	<path>./images/00000770.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,42 @@
 			<ymin>45</ymin>
 			<xmax>620</xmax>
 			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>171</ymin>
+			<xmax>364</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>619</ymin>
+			<xmax>627</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>626</ymin>
+			<xmax>280</xmax>
+			<ymax>952</ymax>
 		</bndbox>
 	</object>
 </annotation>

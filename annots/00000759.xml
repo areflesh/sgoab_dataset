@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cruc</folder>
-	<filename>591338374.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/591338374.jpg</path>
+	<folder>images</folder>
+	<filename>00000759.jpg</filename>
+	<path>./images/00000759.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,54 @@
 			<ymin>124</ymin>
 			<xmax>948</xmax>
 			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>217</ymin>
+			<xmax>466</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>160</ymin>
+			<xmax>466</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>410</ymin>
+			<xmax>250</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crucifixion</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>407</ymin>
+			<xmax>1024</xmax>
+			<ymax>809</ymax>
 		</bndbox>
 	</object>
 </annotation>

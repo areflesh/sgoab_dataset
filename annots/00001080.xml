@@ -1,9 +1,9 @@
 <annotation>
 	<folder>birds</folder>
 	<filename>embepu_f1691_pic1509.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/embepu_f1691_pic1509.jpg</path>
+	<path>./images/00001080.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>still-life-tribute-to-vermeer.jpg</filename>
+	<path>./images/00001565.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>1364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>995</ymin>
+			<xmax>795</xmax>
+			<ymax>1310</ymax>
+		</bndbox>
+	</object>
+</annotation>

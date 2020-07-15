@@ -1,7 +1,7 @@
 <annotation>
-	<folder>final_data_coco</folder>
+	<folder>images</folder>
 	<filename>tmp_2afaf76cf7d8691b0fd8beaa0d138e9b.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_data_coco/tmp_2afaf76cf7d8691b0fd8beaa0d138e9b.jpg</path>
+	<path>./images/00000452.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>person</name>
+		<name>nude</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

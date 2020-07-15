@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_-35925306.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/IIHIM_-35925306.jpg</path>
+	<path>./images/00001377.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -33,6 +33,18 @@
 			<ymin>248</ymin>
 			<xmax>362</xmax>
 			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>143</ymin>
+			<xmax>267</xmax>
+			<ymax>302</ymax>
 		</bndbox>
 	</object>
 </annotation>

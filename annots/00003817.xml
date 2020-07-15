@@ -1,0 +1,26 @@
+<annotation>
+	<folder>deer</folder>
+	<filename>New deer3.jpg</filename>
+	<path>./images/00003817.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>2547</width>
+		<height>2019</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>573</xmin>
+			<ymin>169</ymin>
+			<xmax>2126</xmax>
+			<ymax>1823</ymax>
+		</bndbox>
+	</object>
+</annotation>

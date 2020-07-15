@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eagle</folder>
+	<filename>175G70035-67a.jpg</filename>
+	<path>./images/00003887.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>950</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>176</ymin>
+			<xmax>983</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

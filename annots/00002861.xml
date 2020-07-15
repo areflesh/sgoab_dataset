@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>13nude-woman-with-the-zodiac.jpg</filename>
+	<path>./images/00002861.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>808</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>21</ymin>
+			<xmax>546</xmax>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+</annotation>

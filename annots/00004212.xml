@@ -1,0 +1,38 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>La_Fontaine_-_Tales_and_Novels_in_verse_-_v2_p130.jpg</filename>
+	<path>./images/00004212.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>1291</width>
+		<height>1974</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>431</ymin>
+			<xmax>1199</xmax>
+			<ymax>1604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>492</ymin>
+			<xmax>826</xmax>
+			<ymax>1583</ymax>
+		</bndbox>
+	</object>
+</annotation>

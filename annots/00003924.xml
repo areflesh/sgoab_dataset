@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dove</folder>
+	<filename>311305717764_89abeffe47_o.jpg</filename>
+	<path>./images/00003924.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1437</width>
+		<height>978</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>346</ymin>
+			<xmax>795</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>345</ymin>
+			<xmax>903</xmax>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+</annotation>

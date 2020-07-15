@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_-1757687055.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/horses/images/IIHIM_-1757687055.jpg</path>
+	<path>./images/00000658.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>404</width>
@@ -21,6 +21,30 @@
 			<ymin>239</ymin>
 			<xmax>268</xmax>
 			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>133</ymin>
+			<xmax>217</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>141</ymin>
+			<xmax>266</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 </annotation>

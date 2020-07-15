@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>174mars-and-venus.jpg</filename>
+	<path>./images/00002842.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>867</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>299</ymin>
+			<xmax>581</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

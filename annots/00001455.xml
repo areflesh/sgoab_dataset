@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>nude-with-cat-1910.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/nude-with-cat-1910.jpg</path>
+	<path>./images/00001455.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>868</width>

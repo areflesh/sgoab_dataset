@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IIHIM_-1114632787.jpg</filename>
+	<path>./images/00001982.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>363</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>54</ymin>
+			<xmax>290</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>111</ymin>
+			<xmax>359</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

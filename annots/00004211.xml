@@ -1,0 +1,26 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>Schussenried_Klosterkirche_Chordecke_Ecke_Satan.jpg</filename>
+	<path>./images/00004211.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>1858</width>
+		<height>3254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>825</ymin>
+			<xmax>1077</xmax>
+			<ymax>2311</ymax>
+		</bndbox>
+	</object>
+</annotation>

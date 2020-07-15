@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cruc</folder>
-	<filename>309936641.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/309936641.jpg</path>
+	<folder>images</folder>
+	<filename>00000826.jpg</filename>
+	<path>./images/00000826.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,54 @@
 			<ymin>459</ymin>
 			<xmax>213</xmax>
 			<ymax>725</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>864</ymin>
+			<xmax>382</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prayer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>526</ymin>
+			<xmax>286</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prayer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>517</ymin>
+			<xmax>508</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>327</ymin>
+			<xmax>400</xmax>
+			<ymax>369</ymax>
 		</bndbox>
 	</object>
 </annotation>

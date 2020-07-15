@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00114.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset_with_coco/images/00114.jpg</path>
+	<path>./images/00000114.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>prayer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

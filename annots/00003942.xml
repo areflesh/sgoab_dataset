@@ -1,0 +1,38 @@
+<annotation>
+	<folder>trumpet</folder>
+	<filename>6MM_060023_151.jpg</filename>
+	<path>./images/00003942.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trumpet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>282</ymin>
+			<xmax>466</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>179</ymin>
+			<xmax>513</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

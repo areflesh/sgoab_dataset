@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>woman-with-cat-allegory-of-musik-1529.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/woman-with-cat-allegory-of-musik-1529.jpg</path>
+	<path>./images/00001482.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>681</width>
@@ -21,6 +21,30 @@
 			<ymin>1167</ymin>
 			<xmax>672</xmax>
 			<ymax>1509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>59</ymin>
+			<xmax>647</xmax>
+			<ymax>1555</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>436</ymin>
+			<xmax>681</xmax>
+			<ymax>550</ymax>
 		</bndbox>
 	</object>
 </annotation>

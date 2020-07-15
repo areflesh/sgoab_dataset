@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>248drawing-of-female-nude-with-charcoal-and-chalk-1800-1.jpg</filename>
+	<path>./images/00002883.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1119</width>
+		<height>2031</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>75</ymin>
+			<xmax>881</xmax>
+			<ymax>1937</ymax>
+		</bndbox>
+	</object>
+</annotation>

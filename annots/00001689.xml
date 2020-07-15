@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>embstma_600_pic162.jpg</filename>
+	<path>./images/00001689.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>108</ymin>
+			<xmax>481</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

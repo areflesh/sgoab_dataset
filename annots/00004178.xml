@@ -1,0 +1,38 @@
+<annotation>
+	<folder>serpent</folder>
+	<filename>311291862363_7ba9d06835_o.jpg</filename>
+	<path>./images/00004178.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1711</width>
+		<height>642</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>serpent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>121</ymin>
+			<xmax>1105</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>166</ymin>
+			<xmax>1013</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

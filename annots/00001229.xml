@@ -1,7 +1,7 @@
 <annotation>
-	<folder>dogs</folder>
-	<filename>uiuc_0961ay74e17_pic108.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dogs/uiuc_0961ay74e17_pic108.jpg</path>
+	<folder>images</folder>
+	<filename>00001229.jpg</filename>
+	<path>./images/00001229.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>271</ymin>
 			<xmax>176</xmax>
 			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>210</ymin>
+			<xmax>313</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 </annotation>

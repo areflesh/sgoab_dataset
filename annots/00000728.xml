@@ -1,9 +1,9 @@
 <annotation>
-	<folder>angels</folder>
+	<folder>images</folder>
 	<filename>392979749.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/angels/392979749.jpg</path>
+	<path>./images/00000728.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>Pharos</database>
 	</source>
 	<size>
 		<width>768</width>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>prayer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,18 @@
 			<ymin>219</ymin>
 			<xmax>650</xmax>
 			<ymax>789</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>588</ymin>
+			<xmax>545</xmax>
+			<ymax>811</ymax>
 		</bndbox>
 	</object>
 </annotation>

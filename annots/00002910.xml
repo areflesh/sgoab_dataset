@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>316female-nude-killed-from-behind(1).jpg</filename>
+	<path>./images/00002910.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>776</width>
+		<height>1204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>16</ymin>
+			<xmax>544</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+</annotation>

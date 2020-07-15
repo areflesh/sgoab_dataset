@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cruc</folder>
+	<folder>images</folder>
 	<filename>111140839.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/cruc/111140839.jpg</path>
+	<path>./images/00000808.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>Pharos</database>
 	</source>
 	<size>
 		<width>758</width>
@@ -21,6 +21,42 @@
 			<ymin>315</ymin>
 			<xmax>487</xmax>
 			<ymax>636</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prayer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>609</ymin>
+			<xmax>578</xmax>
+			<ymax>923</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>676</ymin>
+			<xmax>405</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prayer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>604</ymin>
+			<xmax>297</xmax>
+			<ymax>919</ymax>
 		</bndbox>
 	</object>
 </annotation>

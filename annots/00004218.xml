@@ -1,0 +1,38 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>Engl_Das_neue_Licht.jpg</filename>
+	<path>./images/00004218.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>48</ymin>
+			<xmax>813</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>67</ymin>
+			<xmax>390</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>boats-in-the-port-of-le-havre-1883.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/boats-in-the-port-of-le-havre-1883.jpg</path>
+	<path>./images/00001268.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1280</width>
@@ -33,6 +33,18 @@
 			<ymin>89</ymin>
 			<xmax>1227</xmax>
 			<ymax>583</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>213</ymin>
+			<xmax>314</xmax>
+			<ymax>560</ymax>
 		</bndbox>
 	</object>
 </annotation>

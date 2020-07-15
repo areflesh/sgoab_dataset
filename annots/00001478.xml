@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>marika-with-her-dog-and-cats-1968.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/marika-with-her-dog-and-cats-1968.jpg</path>
+	<path>./images/00001478.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>750</width>

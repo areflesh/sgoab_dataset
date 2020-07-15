@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>240792873.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/240792873.jpg</path>
+	<path>./images/00000919.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,54 @@
 			<ymin>553</ymin>
 			<xmax>615</xmax>
 			<ymax>815</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>543</ymin>
+			<xmax>203</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>79</ymin>
+			<xmax>309</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>346</ymin>
+			<xmax>115</xmax>
+			<ymax>914</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>634</ymin>
+			<xmax>457</xmax>
+			<ymax>774</ymax>
 		</bndbox>
 	</object>
 </annotation>

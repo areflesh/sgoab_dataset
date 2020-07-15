@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>233bacchante-1785-1.jpg</filename>
+	<path>./images/00002807.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>463</width>
+		<height>589</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>71</ymin>
+			<xmax>419</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+</annotation>

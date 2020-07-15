@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>IIHIM_1985204139.jpg</filename>
+	<path>./images/00001684.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>473</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>173</ymin>
+			<xmax>333</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

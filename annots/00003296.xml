@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sword</folder>
+	<filename>New name 6.jpg</filename>
+	<path>./images/00003296.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1532</width>
+		<height>2440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>206</ymin>
+			<xmax>1511</xmax>
+			<ymax>2401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>929</ymin>
+			<xmax>705</xmax>
+			<ymax>2277</ymax>
+		</bndbox>
+	</object>
+</annotation>

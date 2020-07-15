@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>76f14_117v_min.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/76f14_117v_min.jpg</path>
+	<path>./images/00000945.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>174</ymin>
 			<xmax>304</xmax>
 			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>106</ymin>
+			<xmax>227</xmax>
+			<ymax>272</ymax>
 		</bndbox>
 	</object>
 </annotation>

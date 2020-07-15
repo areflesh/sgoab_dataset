@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>129muscle-man-standing-1541.jpg</filename>
+	<path>./images/00002933.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1256</width>
+		<height>1957</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>22</ymin>
+			<xmax>1210</xmax>
+			<ymax>1885</ymax>
+		</bndbox>
+	</object>
+</annotation>

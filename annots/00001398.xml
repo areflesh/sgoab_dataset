@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>cats-paradise-1955.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/cats-paradise-1955.jpg</path>
+	<path>./images/00001398.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>555</width>
@@ -105,6 +105,30 @@
 			<ymin>584</ymin>
 			<xmax>545</xmax>
 			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>211</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>4</ymin>
+			<xmax>555</xmax>
+			<ymax>527</ymax>
 		</bndbox>
 	</object>
 </annotation>

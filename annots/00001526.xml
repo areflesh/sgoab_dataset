@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>vase-with-flowers-and-book-by-the-window-1954.jpg</filename>
+	<path>./images/00001526.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>686</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>524</ymin>
+			<xmax>304</xmax>
+			<ymax>811</ymax>
+		</bndbox>
+	</object>
+</annotation>

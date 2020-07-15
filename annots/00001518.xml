@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>flowers-by-the-sea-1945.jpg</filename>
+	<path>./images/00001518.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>742</width>
+		<height>904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>706</ymin>
+			<xmax>420</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>243male-torso.jpg</filename>
+	<path>./images/00002918.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2391</width>
+		<height>3251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>10</ymin>
+			<xmax>2387</xmax>
+			<ymax>3250</ymax>
+		</bndbox>
+	</object>
+</annotation>

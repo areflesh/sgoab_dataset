@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>cosmic-energy.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/cosmic-energy.jpg</path>
+	<path>./images/00001480.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>920</width>

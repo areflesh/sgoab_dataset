@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00274.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/00274.jpg</path>
+	<path>./images/00000322.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>186</ymin>
 			<xmax>287</xmax>
 			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>78</ymin>
+			<xmax>51</xmax>
+			<ymax>117</ymax>
 		</bndbox>
 	</object>
 </annotation>

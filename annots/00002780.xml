@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>304seated-nude-figure.jpg</filename>
+	<path>./images/00002780.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>1007</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>74</ymin>
+			<xmax>675</xmax>
+			<ymax>1007</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skull</folder>
+	<filename>19still-life-skull-and-waterjug.jpg</filename>
+	<path>./images/00002443.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>915</width>
+		<height>1049</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>126</ymin>
+			<xmax>557</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

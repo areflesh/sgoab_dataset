@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>6coat-of-arms-with-lion-and-rooster-1500.jpg</filename>
+	<path>./images/00003452.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>3</ymin>
+			<xmax>607</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bananas_apples_oranges</folder>
+	<filename>80a-banana-graden-of-xishuangbanna-1978.jpg</filename>
+	<path>./images/00002529.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>553</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>63</ymin>
+			<xmax>481</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

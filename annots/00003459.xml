@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rooster</folder>
+	<filename>17a-rooster-1938.jpg</filename>
+	<path>./images/00003459.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>822</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rooster</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>94</ymin>
+			<xmax>813</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

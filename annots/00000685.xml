@@ -1,9 +1,9 @@
 <annotation>
 	<folder>angels</folder>
 	<filename>986237991.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/angels/986237991.jpg</path>
+	<path>./images/00000685.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>Pharos</database>
 	</source>
 	<size>
 		<width>640</width>

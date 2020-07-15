@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>embhab_xb2867_pic01407.jpg</filename>
+	<path>./images/00001808.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>47</ymin>
+			<xmax>167</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zebras</folder>
+	<filename>IIHIM_-308964874.jpg</filename>
+	<path>./images/00001833.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>34</ymin>
+			<xmax>441</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

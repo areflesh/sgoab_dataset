@@ -1,0 +1,38 @@
+<annotation>
+	<folder>chalice</folder>
+	<filename>154187_2113_1.jpg</filename>
+	<path>./images/00003238.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>260</ymin>
+			<xmax>622</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>549</ymin>
+			<xmax>568</xmax>
+			<ymax>868</ymax>
+		</bndbox>
+	</object>
+</annotation>

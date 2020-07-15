@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>green-s-cat.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/green-s-cat.jpg</path>
+	<path>./images/00001484.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>879</width>

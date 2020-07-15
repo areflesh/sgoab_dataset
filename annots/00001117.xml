@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00001117.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_data_coco/images/00001117.jpg</path>
+	<path>./images/00001117.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -69,6 +69,30 @@
 			<ymin>265</ymin>
 			<xmax>390</xmax>
 			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>33</ymin>
+			<xmax>500</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>202</ymin>
+			<xmax>66</xmax>
+			<ymax>238</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sheeps</folder>
+	<filename>12agnus-dei-1640-1.jpg</filename>
+	<path>./images/00001647.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>851</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sheep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>56</ymin>
+			<xmax>1222</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>

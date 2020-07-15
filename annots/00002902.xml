@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>18study-to-battle-of-cascina-1504.jpg</filename>
+	<path>./images/00002902.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>3</ymin>
+			<xmax>467</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>

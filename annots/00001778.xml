@@ -1,0 +1,26 @@
+<annotation>
+	<folder>elephants</folder>
+	<filename>bsb00038207_180.jpg</filename>
+	<path>./images/00001778.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>114</ymin>
+			<xmax>183</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder>birds</folder>
+	<folder>images</folder>
 	<filename>embhab_lo-5357_pic117.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/embhab_lo-5357_pic117.jpg</path>
+	<path>./images/00001061.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>336</width>
@@ -21,6 +21,18 @@
 			<ymin>172</ymin>
 			<xmax>96</xmax>
 			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>229</ymin>
+			<xmax>279</xmax>
+			<ymax>409</ymax>
 		</bndbox>
 	</object>
 </annotation>

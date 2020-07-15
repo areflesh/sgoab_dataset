@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>236naked-girl-looking-in-the-mirror.jpg</filename>
+	<path>./images/00002895.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>846</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>275</ymin>
+			<xmax>372</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+</annotation>

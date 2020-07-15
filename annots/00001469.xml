@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>drawing-room-1942.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/drawing-room-1942.jpg</path>
+	<path>./images/00001469.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>838</width>
@@ -33,6 +33,30 @@
 			<ymin>406</ymin>
 			<xmax>832</xmax>
 			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>106</ymin>
+			<xmax>323</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>545</ymin>
+			<xmax>378</xmax>
+			<ymax>601</ymax>
 		</bndbox>
 	</object>
 </annotation>

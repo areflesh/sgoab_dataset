@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>728.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/prep_folder/images/728.jpg</path>
+	<path>./images/00000985.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>knight</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -45,6 +45,42 @@
 			<ymin>159</ymin>
 			<xmax>373</xmax>
 			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>147</ymin>
+			<xmax>107</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>141</ymin>
+			<xmax>88</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sword</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>21</ymin>
+			<xmax>298</xmax>
+			<ymax>179</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>IIHIM_-142663886.jpg</filename>
+	<path>./images/00001589.jpg</path>
+	<source>
+		<database>IconClass</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>302</ymin>
+			<xmax>134</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

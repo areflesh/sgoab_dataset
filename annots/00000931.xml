@@ -1,9 +1,9 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IIHIM_-1840189157.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dragons/images/IIHIM_-1840189157.jpg</path>
+	<path>./images/00000931.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -21,6 +21,18 @@
 			<ymin>84</ymin>
 			<xmax>420</xmax>
 			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>20</ymin>
+			<xmax>86</xmax>
+			<ymax>74</ymax>
 		</bndbox>
 	</object>
 </annotation>

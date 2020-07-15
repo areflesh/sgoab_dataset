@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>the-family-of-the-peasants.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/the-family-of-the-peasants.jpg</path>
+	<path>./images/00001488.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>2250</width>
@@ -81,6 +81,18 @@
 			<ymin>140</ymin>
 			<xmax>1751</xmax>
 			<ymax>703</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chalice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>603</ymin>
+			<xmax>708</xmax>
+			<ymax>730</ymax>
 		</bndbox>
 	</object>
 </annotation>

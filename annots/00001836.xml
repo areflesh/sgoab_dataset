@@ -1,0 +1,38 @@
+<annotation>
+	<folder>zebra</folder>
+	<filename>391XEMp.jpg</filename>
+	<path>./images/00001836.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1609</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>516</ymin>
+			<xmax>942</xmax>
+			<ymax>1211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>1419</ymin>
+			<xmax>935</xmax>
+			<ymax>2030</ymax>
+		</bndbox>
+	</object>
+</annotation>

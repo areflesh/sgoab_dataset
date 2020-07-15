@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lion</folder>
+	<filename>2010c1320-08c.jpg</filename>
+	<path>./images/00004023.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1061</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>930</xmin>
+			<ymin>637</ymin>
+			<xmax>1276</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>606</ymin>
+			<xmax>483</xmax>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+</annotation>

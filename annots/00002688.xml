@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bananas_apples_oranges</folder>
+	<filename>109orange.jpg</filename>
+	<path>./images/00002688.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1831</width>
+		<height>2126</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>228</ymin>
+			<xmax>1771</xmax>
+			<ymax>2092</ymax>
+		</bndbox>
+	</object>
+</annotation>

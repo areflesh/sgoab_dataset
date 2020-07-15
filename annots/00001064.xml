@@ -1,9 +1,9 @@
 <annotation>
 	<folder>birds</folder>
 	<filename>IIHIM_-296712136.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/birds/IIHIM_-296712136.jpg</path>
+	<path>./images/00001064.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>397</width>

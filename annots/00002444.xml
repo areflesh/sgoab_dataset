@@ -1,0 +1,26 @@
+<annotation>
+	<folder>skull</folder>
+	<filename>52human-skull-in-space.jpg</filename>
+	<path>./images/00002444.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>96</ymin>
+			<xmax>247</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

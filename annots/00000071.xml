@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
 	<filename>00193.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/final_dataset/images/00193.jpg</path>
+	<path>./images/00000071.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>person</name>
+		<name>prayer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -33,6 +33,42 @@
 			<ymin>74</ymin>
 			<xmax>277</xmax>
 			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown of thorns</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>277</ymin>
+			<xmax>293</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>9</ymin>
+			<xmax>292</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>9</ymin>
+			<xmax>119</xmax>
+			<ymax>112</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>522.jpg</filename>
+	<path>./images/00003170.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>258</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>193</ymin>
+			<xmax>255</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>angel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>206</ymin>
+			<xmax>226</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

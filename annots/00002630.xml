@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bananas_apples_oranges</folder>
+	<filename>73this-is-not-an-apple-1964(1).jpg</filename>
+	<path>./images/00002630.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1305</width>
+		<height>1822</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>489</ymin>
+			<xmax>1070</xmax>
+			<ymax>1645</ymax>
+		</bndbox>
+	</object>
+</annotation>

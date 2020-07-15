@@ -1,7 +1,7 @@
 <annotation>
-	<folder>angels</folder>
-	<filename>888860767.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/pharos/angels/888860767.jpg</path>
+	<folder>images</folder>
+	<filename>00000706.jpg</filename>
+	<path>./images/00000706.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,6 +57,54 @@
 			<ymin>536</ymin>
 			<xmax>607</xmax>
 			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>saturno</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>255</ymin>
+			<xmax>290</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>monk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>242</ymin>
+			<xmax>837</xmax>
+			<ymax>994</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>300</ymin>
+			<xmax>257</xmax>
+			<ymax>976</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>76</ymin>
+			<xmax>414</xmax>
+			<ymax>122</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder>cats</folder>
+	<folder>images</folder>
 	<filename>russian-girl-near-the-window-1923.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/russian-girl-near-the-window-1923.jpg</path>
+	<path>./images/00001454.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>994</width>
@@ -21,6 +21,18 @@
 			<ymin>760</ymin>
 			<xmax>436</xmax>
 			<ymax>976</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>12</ymin>
+			<xmax>734</xmax>
+			<ymax>763</ymax>
 		</bndbox>
 	</object>
 </annotation>

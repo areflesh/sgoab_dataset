@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>26female-nude-1506.jpg</filename>
+	<path>./images/00002825.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1755</width>
+		<height>3000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>208</ymin>
+			<xmax>1207</xmax>
+			<ymax>2783</ymax>
+		</bndbox>
+	</object>
+</annotation>

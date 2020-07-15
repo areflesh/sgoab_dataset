@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>330the-figure-of-orestes-naked.jpg</filename>
+	<path>./images/00002919.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>184</ymin>
+			<xmax>341</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crowns</folder>
+	<filename>gri217685_pic008.jpg</filename>
+	<path>./images/00001945.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>240</ymin>
+			<xmax>277</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

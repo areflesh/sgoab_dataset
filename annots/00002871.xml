@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>247male-nude-grasping-his-wrists.jpg</filename>
+	<path>./images/00002871.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>467</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>1</ymin>
+			<xmax>390</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

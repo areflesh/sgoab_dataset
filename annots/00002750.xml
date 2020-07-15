@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>265seated-female-nude.jpg</filename>
+	<path>./images/00002750.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>3</ymin>
+			<xmax>500</xmax>
+			<ymax>1000</ymax>
+		</bndbox>
+	</object>
+</annotation>

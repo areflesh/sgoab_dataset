@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pope</folder>
+	<filename>785default.jpg</filename>
+	<path>./images/00002279.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>873</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camauro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>96</ymin>
+			<xmax>653</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>232</ymin>
+			<xmax>840</xmax>
+			<ymax>961</ymax>
+		</bndbox>
+	</object>
+</annotation>

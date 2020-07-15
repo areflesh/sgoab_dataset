@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>4nude-study-nude-female-from-the-back-1495.jpg</filename>
+	<path>./images/00002868.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2024</width>
+		<height>2957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>139</ymin>
+			<xmax>1750</xmax>
+			<ymax>2755</ymax>
+		</bndbox>
+	</object>
+</annotation>

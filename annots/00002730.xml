@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>62the-rebellious-slave-1513.jpg</filename>
+	<path>./images/00002730.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>3511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>160</ymin>
+			<xmax>1283</xmax>
+			<ymax>3405</ymax>
+		</bndbox>
+	</object>
+</annotation>

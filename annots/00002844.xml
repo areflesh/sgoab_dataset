@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>267seated-female-nude-by-a-fountain.jpg</filename>
+	<path>./images/00002844.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>125</ymin>
+			<xmax>541</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+</annotation>

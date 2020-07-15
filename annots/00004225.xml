@@ -1,0 +1,26 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>59study-of-nude-man-2.jpg</filename>
+	<path>./images/Unknown</path>
+	<source>
+		<database>None</database>
+	</source>
+	<size>
+		<width>471</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>3</ymin>
+			<xmax>471</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

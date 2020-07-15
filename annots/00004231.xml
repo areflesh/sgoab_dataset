@@ -1,0 +1,38 @@
+<annotation>
+	<folder>devil</folder>
+	<filename>Polyptyque_de_la_Vanit%C3%A9_terrestre_et_de_la_R%C3%A9demption_c%C3%A9leste-Hans_Memling_mg_9960.jpg</filename>
+	<path>./images/00004231.jpg</path>
+	<source>
+		<database>Wikimedia Commons</database>
+	</source>
+	<size>
+		<width>2070</width>
+		<height>3290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>174</ymin>
+			<xmax>1821</xmax>
+			<ymax>2808</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>scroll</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>1</ymin>
+			<xmax>2062</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

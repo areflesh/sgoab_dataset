@@ -1,9 +1,9 @@
 <annotation>
-	<folder>boats</folder>
+	<folder>images</folder>
 	<filename>group-of-people-on-the-beach-with-fishing-boat-arriving-1882(1).jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/boats/group-of-people-on-the-beach-with-fishing-boat-arriving-1882(1).jpg</path>
+	<path>./images/00001302.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>645</width>
@@ -21,6 +21,30 @@
 			<ymin>53</ymin>
 			<xmax>587</xmax>
 			<ymax>468</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>54</ymin>
+			<xmax>480</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>471</ymin>
+			<xmax>501</xmax>
+			<ymax>601</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>311237192205_72c3b5bb61_o.jpg</filename>
+	<path>./images/00003826.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>1955</width>
+		<height>2877</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>712</ymin>
+			<xmax>1580</xmax>
+			<ymax>1949</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>582</ymin>
+			<xmax>1013</xmax>
+			<ymax>1646</ymax>
+		</bndbox>
+	</object>
+</annotation>

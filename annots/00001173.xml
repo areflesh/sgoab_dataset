@@ -1,9 +1,9 @@
 <annotation>
-	<folder>dogs</folder>
+	<folder>images</folder>
 	<filename>embstma_1667_pic044.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/dogs/embstma_1667_pic044.jpg</path>
+	<path>./images/00001173.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>IconClass</database>
 	</source>
 	<size>
 		<width>486</width>
@@ -21,6 +21,42 @@
 			<ymin>296</ymin>
 			<xmax>385</xmax>
 			<ymax>400</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>97</ymin>
+			<xmax>403</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>102</ymin>
+			<xmax>229</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>231</ymin>
+			<xmax>278</xmax>
+			<ymax>376</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>154two-figures.jpg</filename>
+	<path>./images/00002882.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>1045</width>
+		<height>942</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>250</ymin>
+			<xmax>1045</xmax>
+			<ymax>843</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
 	<folder>cats</folder>
 	<filename>cat-playing-with-an-adder.jpg</filename>
-	<path>/home/bscuser/BSC/datasets/WikiArt/cats/cat-playing-with-an-adder.jpg</path>
+	<path>./images/00001492.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>WikiArt</database>
 	</source>
 	<size>
 		<width>1016</width>

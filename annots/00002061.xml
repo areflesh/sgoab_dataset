@@ -1,0 +1,38 @@
+<annotation>
+	<folder>crown</folder>
+	<filename>710slsa1270_34_11.jpg</filename>
+	<path>./images/00002061.jpg</path>
+	<source>
+		<database>Europeana Collection</database>
+	</source>
+	<size>
+		<width>2667</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>623</ymin>
+			<xmax>1464</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1014</ymin>
+			<xmax>1856</xmax>
+			<ymax>2552</ymax>
+		</bndbox>
+	</object>
+</annotation>

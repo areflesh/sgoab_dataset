@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nudes</folder>
+	<filename>328badende-1832.jpg</filename>
+	<path>./images/00002862.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>2024</width>
+		<height>2318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nude</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>450</ymin>
+			<xmax>1920</xmax>
+			<ymax>2169</ymax>
+		</bndbox>
+	</object>
+</annotation>

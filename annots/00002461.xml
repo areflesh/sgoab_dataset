@@ -1,0 +1,38 @@
+<annotation>
+	<folder>skull</folder>
+	<filename>New name 2.jpg</filename>
+	<path>./images/00002461.jpg</path>
+	<source>
+		<database>WikiArt</database>
+	</source>
+	<size>
+		<width>4525</width>
+		<height>6930</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skull</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>1960</ymin>
+			<xmax>1504</xmax>
+			<ymax>3153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1312</xmin>
+			<ymin>468</ymin>
+			<xmax>4035</xmax>
+			<ymax>6176</ymax>
+		</bndbox>
+	</object>
+</annotation>
